@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: 3039eb09858068a4faa0a09679a12af0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 969602608638228439
+    second: GUIA_0
+  - first:
+      213: 4996073126429786496
+    second: GUIA_1
+  - first:
+      213: -5496204083027613761
+    second: GUIA_2
+  - first:
+      213: 101364385715866815
+    second: GUIA_3
+  - first:
+      213: 3431286232621286221
+    second: GUIA_4
+  - first:
+      213: 74545707290440869
+    second: GUIA_5
+  - first:
+      213: -1748733763008192484
+    second: GUIA_6
+  - first:
+      213: -8603916879023971761
+    second: GUIA_7
+  - first:
+      213: -4454533699300920399
+    second: GUIA_8
+  - first:
+      213: 968176453589548436
+    second: GUIA_9
+  - first:
+      213: 3569698342107559347
+    second: GUIA_10
+  - first:
+      213: 8440671570936887933
+    second: GUIA_11
+  - first:
+      213: -7296354125828778575
+    second: GUIA_12
+  - first:
+      213: 1388994562406465981
+    second: GUIA_13
+  - first:
+      213: -1768835606638270759
+    second: GUIA_14
+  - first:
+      213: 7645749608663263997
+    second: GUIA_15
+  - first:
+      213: 2715232633505072780
+    second: GUIA_16
+  - first:
+      213: -105730019807919673
+    second: GUIA_17
+  - first:
+      213: 2630282995537874794
+    second: GUIA_18
+  - first:
+      213: -513886559752491656
+    second: GUIA_19
+  - first:
+      213: -8169735618906097756
+    second: GUIA_20
+  - first:
+      213: -8107402647317051784
+    second: GUIA_21
+  - first:
+      213: -1977961504798078576
+    second: GUIA_22
+  - first:
+      213: -5093839537030344270
+    second: GUIA_23
+  - first:
+      213: 8920868476395579590
+    second: GUIA_24
+  - first:
+      213: 419478119122417692
+    second: GUIA_25
+  - first:
+      213: -2063177865063548207
+    second: GUIA_26
+  - first:
+      213: 1041525339368862792
+    second: GUIA_27
+  - first:
+      213: 8210246400259255717
+    second: GUIA_28
+  - first:
+      213: 3454567519546070814
+    second: GUIA_29
+  - first:
+      213: -535900070759438752
+    second: GUIA_30
+  - first:
+      213: 91971409637141813
+    second: GUIA_31
+  - first:
+      213: -8926866793954593642
+    second: GUIA_32
+  - first:
+      213: 3150499999721068796
+    second: GUIA_33
+  - first:
+      213: 3024695144417974021
+    second: GUIA_34
+  - first:
+      213: 593069719217335758
+    second: GUIA_35
+  - first:
+      213: 1600431230649856336
+    second: GUIA_36
+  - first:
+      213: 5408058433038051605
+    second: GUIA_37
+  - first:
+      213: -1551603847556220959
+    second: GUIA_38
+  - first:
+      213: 5174585415506401200
+    second: GUIA_39
+  - first:
+      213: 8560105838902611172
+    second: GUIA_40
+  - first:
+      213: 6627062024994820886
+    second: GUIA_41
+  - first:
+      213: -8529109005943726503
+    second: GUIA_42
+  - first:
+      213: -3707635793733984390
+    second: GUIA_43
+  - first:
+      213: 3695206462293333322
+    second: GUIA_44
+  - first:
+      213: -7463677581194145766
+    second: GUIA_45
+  - first:
+      213: 5094199993569785592
+    second: GUIA_46
+  - first:
+      213: 8593304015537605198
+    second: GUIA_47
+  - first:
+      213: -1565266793656255558
+    second: GUIA_48
+  - first:
+      213: 4669905582656152544
+    second: GUIA_49
+  - first:
+      213: -2297959953776181904
+    second: GUIA_50
+  - first:
+      213: -1971258182631330161
+    second: GUIA_51
+  - first:
+      213: 1813388444506472192
+    second: GUIA_52
+  - first:
+      213: 6938159377803119889
+    second: GUIA_53
+  - first:
+      213: 2511807449293806590
+    second: GUIA_54
+  - first:
+      213: -6351838655574787416
+    second: GUIA_55
+  - first:
+      213: 3105122981055182624
+    second: GUIA_56
+  - first:
+      213: -6574728104613968429
+    second: GUIA_57
+  - first:
+      213: 2921623644641182904
+    second: GUIA_58
+  - first:
+      213: 444127898489582860
+    second: GUIA_59
+  - first:
+      213: -2555679074085509373
+    second: GUIA_60
+  - first:
+      213: 8245182770416006508
+    second: GUIA_61
+  - first:
+      213: -7251533944387189655
+    second: GUIA_62
+  - first:
+      213: 1513037654830124130
+    second: GUIA_63
+  - first:
+      213: -8413560458792130409
+    second: GUIA_64
+  - first:
+      213: -4587547768510998294
+    second: GUIA_65
+  - first:
+      213: -3174759846123496425
+    second: GUIA_66
+  - first:
+      213: -4765086342590308006
+    second: GUIA_67
+  - first:
+      213: -5962597897282874209
+    second: GUIA_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUIA_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77c257f68b47d00800000000000000
+      internalID: 969602608638228439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 425
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08109b4c90e955540800000000000000
+      internalID: 4996073126429786496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 425
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb76612b18f89b3b0800000000000000
+      internalID: -5496204083027613761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 425
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc487b2f5e186100800000000000000
+      internalID: 101364385715866815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 425
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43841a16a06e9f20800000000000000
+      internalID: 3431286232621286221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 425
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4b3920de6d80100800000000000000
+      internalID: 74545707290440869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 425
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c102a2168ef3bb7e0800000000000000
+      internalID: -1748733763008192484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 425
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42e9cc1f2fb89880800000000000000
+      internalID: -8603916879023971761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 440
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3792d93315e22c0800000000000000
+      internalID: -4454533699300920399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 425
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d3a1cda57af6d00800000000000000
+      internalID: 968176453589548436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 425
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b53f94aabd1a8130800000000000000
+      internalID: 3569698342107559347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 425
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a7e6bb21a432570800000000000000
+      internalID: 8440671570936887933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 425
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5158e84942eba90800000000000000
+      internalID: -7296354125828778575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 425
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1cf2ff133b64310800000000000000
+      internalID: 1388994562406465981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 425
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d663403365d377e0800000000000000
+      internalID: -1768835606638270759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 425
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa4f992c82b1a60800000000000000
+      internalID: 7645749608663263997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 425
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c864e9ab1b17ea520800000000000000
+      internalID: 2715232633505072780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1014f6b1f588ef0800000000000000
+      internalID: -105730019807919673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 350
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f09c7d274a08420800000000000000
+      internalID: 2630282995537874794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 375
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dea1785ee4ed8f0800000000000000
+      internalID: -513886559752491656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 365
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7fe3e5db44f9e80800000000000000
+      internalID: -8169735618906097756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 350
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8760b934f38bc7f80800000000000000
+      internalID: -8107402647317051784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990d17bd7edc84e0800000000000000
+      internalID: -1977961504798078576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 339
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1577cedeb0f49b0800000000000000
+      internalID: -5093839537030344270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 350
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e98f4d9a4dcb70800000000000000
+      internalID: 8920868476395579590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 350
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c183759702942d500800000000000000
+      internalID: 419478119122417692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 350
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da3074b9ae1e53e0800000000000000
+      internalID: -2063177865063548207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 350
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84436a527cd347e00800000000000000
+      internalID: 1041525339368862792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 350
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ade1ede997a0f170800000000000000
+      internalID: 8210246400259255717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17552f1bd611ff20800000000000000
+      internalID: 3454567519546070814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 297
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066e64799b91098f0800000000000000
+      internalID: -535900070759438752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 297
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53de9e0828fb64100800000000000000
+      internalID: 91971409637141813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 297
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6943b1d82f56d1480800000000000000
+      internalID: -8926866793954593642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 297
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf81e34ce03d8bb20800000000000000
+      internalID: 3150499999721068796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 297
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507d1e45530e9f920800000000000000
+      internalID: 3024695144417974021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 297
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6df474c10b3800800000000000000
+      internalID: 593069719217335758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051735e89bfd53610800000000000000
+      internalID: 1600431230649856336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 246
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519e9c1ed784d0b40800000000000000
+      internalID: 5408058433038051605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 231
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7384a7588977ae0800000000000000
+      internalID: -1551603847556220959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 231
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b71d2fe402dfc740800000000000000
+      internalID: 5174585415506401200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_40
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 231
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec898738ea9bc670800000000000000
+      internalID: 8560105838902611172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 221
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6131c40dccd08fb50800000000000000
+      internalID: 6627062024994820886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 231
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e932a5c8482a980800000000000000
+      internalID: -8529109005943726503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 231
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f56f5b3e4db8cc0800000000000000
+      internalID: -3707635793733984390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 231
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45d8bc03b2084330800000000000000
+      internalID: 3695206462293333322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 231
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1050eeb8c0bb6890800000000000000
+      internalID: -7463677581194145766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_46
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 231
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6368767eb32b640800000000000000
+      internalID: 5094199993569785592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 231
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a8e0d097c814770800000000000000
+      internalID: 8593304015537605198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb7761f42e074ae0800000000000000
+      internalID: -1565266793656255558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 178
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e365dc9266dec040800000000000000
+      internalID: 4669905582656152544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_50
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 202
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df81fd8910c10e0800000000000000
+      internalID: -2297959953776181904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 178
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e6da7802fa4a4e0800000000000000
+      internalID: -1971258182631330161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_52
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 178
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f3b9abe237a2910800000000000000
+      internalID: 1813388444506472192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d0005b13b494060800000000000000
+      internalID: 6938159377803119889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5657219bbbd220800000000000000
+      internalID: 2511807449293806590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 123
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aabedf656cb9d7a0800000000000000
+      internalID: -6351838655574787416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 98
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02732bd46ec971b20800000000000000
+      internalID: 3105122981055182624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d505bd8f9fd1c4a0800000000000000
+      internalID: -6574728104613968429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_58
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b44832b931bb8820800000000000000
+      internalID: 2921623644641182904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_59
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 98
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05ff4878fbd92600800000000000000
+      internalID: 444127898489582860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307eb353c67688cd0800000000000000
+      internalID: -2555679074085509373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6531da7b06cc6270800000000000000
+      internalID: 8245182770416006508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 98
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9644d104c406d5b90800000000000000
+      internalID: -7251533944387189655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 98
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c80fb0bb36ff410800000000000000
+      internalID: 1513037654830124130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 113
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7982c65f6570d3b80800000000000000
+      internalID: -8413560458792130409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae814c34c91c550c0800000000000000
+      internalID: -4587547768510998294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 98
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c92a49dbcf0f3d0800000000000000
+      internalID: -3174759846123496425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 98
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e6d9c7330fddb0800000000000000
+      internalID: -4765086342590308006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIA_68
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 98
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9496f9bdc8904da0800000000000000
+      internalID: -5962597897282874209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GUIA_0: 969602608638228439
+      GUIA_1: 4996073126429786496
+      GUIA_10: 3569698342107559347
+      GUIA_11: 8440671570936887933
+      GUIA_12: -7296354125828778575
+      GUIA_13: 1388994562406465981
+      GUIA_14: -1768835606638270759
+      GUIA_15: 7645749608663263997
+      GUIA_16: 2715232633505072780
+      GUIA_17: -105730019807919673
+      GUIA_18: 2630282995537874794
+      GUIA_19: -513886559752491656
+      GUIA_2: -5496204083027613761
+      GUIA_20: -8169735618906097756
+      GUIA_21: -8107402647317051784
+      GUIA_22: -1977961504798078576
+      GUIA_23: -5093839537030344270
+      GUIA_24: 8920868476395579590
+      GUIA_25: 419478119122417692
+      GUIA_26: -2063177865063548207
+      GUIA_27: 1041525339368862792
+      GUIA_28: 8210246400259255717
+      GUIA_29: 3454567519546070814
+      GUIA_3: 101364385715866815
+      GUIA_30: -535900070759438752
+      GUIA_31: 91971409637141813
+      GUIA_32: -8926866793954593642
+      GUIA_33: 3150499999721068796
+      GUIA_34: 3024695144417974021
+      GUIA_35: 593069719217335758
+      GUIA_36: 1600431230649856336
+      GUIA_37: 5408058433038051605
+      GUIA_38: -1551603847556220959
+      GUIA_39: 5174585415506401200
+      GUIA_4: 3431286232621286221
+      GUIA_40: 8560105838902611172
+      GUIA_41: 6627062024994820886
+      GUIA_42: -8529109005943726503
+      GUIA_43: -3707635793733984390
+      GUIA_44: 3695206462293333322
+      GUIA_45: -7463677581194145766
+      GUIA_46: 5094199993569785592
+      GUIA_47: 8593304015537605198
+      GUIA_48: -1565266793656255558
+      GUIA_49: 4669905582656152544
+      GUIA_5: 74545707290440869
+      GUIA_50: -2297959953776181904
+      GUIA_51: -1971258182631330161
+      GUIA_52: 1813388444506472192
+      GUIA_53: 6938159377803119889
+      GUIA_54: 2511807449293806590
+      GUIA_55: -6351838655574787416
+      GUIA_56: 3105122981055182624
+      GUIA_57: -6574728104613968429
+      GUIA_58: 2921623644641182904
+      GUIA_59: 444127898489582860
+      GUIA_6: -1748733763008192484
+      GUIA_60: -2555679074085509373
+      GUIA_61: 8245182770416006508
+      GUIA_62: -7251533944387189655
+      GUIA_63: 1513037654830124130
+      GUIA_64: -8413560458792130409
+      GUIA_65: -4587547768510998294
+      GUIA_66: -3174759846123496425
+      GUIA_67: -4765086342590308006
+      GUIA_68: -5962597897282874209
+      GUIA_7: -8603916879023971761
+      GUIA_8: -4454533699300920399
+      GUIA_9: 968176453589548436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
