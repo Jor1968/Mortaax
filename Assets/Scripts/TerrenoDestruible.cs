@@ -26,8 +26,9 @@ public class TerrenoDestruible : MonoBehaviour
       private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.CompareTag("AtaqueMinar"))
-        {
-            detectarGolpe(collision.contacts[0].point);
+        {   foreach(ContactPoint2D i in collision.contacts){
+            detectarGolpe(i.point);
+        }
         }
     }
     

@@ -3,10 +3,11 @@ using UnityEngine;
 public class ComportamientoCriaturaVoladora : ComportamientoObjetoBase
 {
     public GameObject objetoLoot;
+    public Animator animador;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        animador.Play("Idle");
     }
 
     // Update is called once per frame
