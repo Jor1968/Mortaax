@@ -3,6 +3,7 @@ using UnityEngine;
 public class ComportamientoCriaturaVoladora : ComportamientoObjetoBase
 {
     public GameObject objetoLoot;
+    public GameObject CasaSpawn;
     public Animator animador;
     public float velocidad;
     public Transform JugadorPosicion;
@@ -47,6 +48,10 @@ public class ComportamientoCriaturaVoladora : ComportamientoObjetoBase
         public override void Morir()
     {
         GameObject clone = Instantiate(objetoLoot, transform.position, Quaternion.identity);
+        if (CasaSpawn != null)
+        {
+            CasaSpawn.GetComponent<CreadorDeObjetos>().StartCoroutine("TemporizadorSpawn");
+        }
         Destroy(gameObject);
 
     }

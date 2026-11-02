@@ -115149,14 +115149,23 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7587421723241842691, guid: 18094e8bb6c66ea44ae4313939204ed3, type: 3}
+      propertyPath: Temporizador
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7587421723241842691, guid: 18094e8bb6c66ea44ae4313939204ed3, type: 3}
       propertyPath: ObjetoSpawneado
       value: 
-      objectReference: {fileID: 8218828176318529953}
+      objectReference: {fileID: 661896815395481549, guid: b0ada750e60e5444492a83ceffeb6544, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18094e8bb6c66ea44ae4313939204ed3, type: 3}
+--- !u!1 &268395409660832671 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1271675032605694157, guid: 18094e8bb6c66ea44ae4313939204ed3, type: 3}
+  m_PrefabInstance: {fileID: 268395409660832670}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1036512487537477733 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6159828938540718300, guid: ce2047d3e4539674c8b27243e84083b8, type: 3}
@@ -115587,6 +115596,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8218828176318529954}
     - target: {fileID: 2609765795497783385, guid: b0ada750e60e5444492a83ceffeb6544, type: 3}
+      propertyPath: CasaSpawn
+      value: 
+      objectReference: {fileID: 268395409660832671}
+    - target: {fileID: 2609765795497783385, guid: b0ada750e60e5444492a83ceffeb6544, type: 3}
       propertyPath: velocidad
       value: 6
       objectReference: {fileID: 0}
@@ -115595,11 +115608,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0ada750e60e5444492a83ceffeb6544, type: 3}
---- !u!1 &8218828176318529953 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 661896815395481549, guid: b0ada750e60e5444492a83ceffeb6544, type: 3}
-  m_PrefabInstance: {fileID: 8218828176318529952}
-  m_PrefabAsset: {fileID: 0}
 --- !u!95 &8218828176318529954 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 4733619442861414649, guid: b0ada750e60e5444492a83ceffeb6544, type: 3}
