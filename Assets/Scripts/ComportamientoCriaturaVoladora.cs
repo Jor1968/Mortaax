@@ -6,6 +6,7 @@ public class ComportamientoCriaturaVoladora : ComportamientoObjetoBase
     public Animator animador;
     public float velocidad;
     public Transform JugadorPosicion;
+    public AudioSource oww;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,12 +29,20 @@ public class ComportamientoCriaturaVoladora : ComportamientoObjetoBase
         if(collision.collider.CompareTag("AtaqueMinar"))
         {
             Dañar(2);
-
+            if (!oww.isPlaying)
+            {
+                oww.Play();
+            }
         }
         else if (collision.collider.CompareTag("Proyectil"))
         {
             Dañar(2);
+            if (!oww.isPlaying)
+            {
+                oww.Play();
+            }
         }
+
     }
         public override void Morir()
     {
