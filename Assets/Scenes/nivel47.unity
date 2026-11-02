@@ -115171,7 +115171,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 6159828938540718300, guid: ce2047d3e4539674c8b27243e84083b8, type: 3}
   m_PrefabInstance: {fileID: 1613265530}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1051260552021465019
+--- !u!1001 &1342543976715882464
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -115179,130 +115179,63 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 836316320410065497, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-      propertyPath: song.path
-      value: "Musica/Charly Garcia No Soy Un Extra\xF1o_patched.mid"
-      objectReference: {fileID: 0}
-    - target: {fileID: 1459271137579147298, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-      propertyPath: songs.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 1459271137579147298, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-      propertyPath: 'songs.Array.data[2]'
-      value: 
-      objectReference: {fileID: 1051260552021465022}
-    - target: {fileID: 2033698568316963221, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-      propertyPath: song.path
-      value: Musica/Blekk/Falkenbach - The Heathenish Foray_patched.mid
-      objectReference: {fileID: 0}
-    - target: {fileID: 3128038806857029147, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 1722967189087695263, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: soundFont.path
       value: Soundfonts/Reality_GMGS_falcomod.sf2
       objectReference: {fileID: 0}
-    - target: {fileID: 4099492766694598678, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 2457756076026812565, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_Name
       value: Reproductor MIDI
       objectReference: {fileID: 0}
-    - target: {fileID: 4099492766694598678, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.37758
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.62955
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4480117154347264417, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+    - target: {fileID: 4573867832414846479, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5440144885478648009, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-      propertyPath: m_Enabled
-      value: 1
+    - target: {fileID: 5987013350033401024, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
+      propertyPath: song.path
+      value: Musica/Bach Badinerie.mid
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4099492766694598678, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1051260552021465022}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
---- !u!1 &1051260552021465020 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4099492766694598678, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-  m_PrefabInstance: {fileID: 1051260552021465019}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1051260552021465021 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3128038806857029147, guid: bb7314f43333b3447b1bd80751dfd867, type: 3}
-  m_PrefabInstance: {fileID: 1051260552021465019}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1051260552021465020}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6935756e2d15d42448e50d732fdfa802, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.Synthesizer
---- !u!114 &1051260552021465022
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1051260552021465020}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb7ebbfa35eb5254bbbedaf0354cc4e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.SongPlayer
-  synthesizer: {fileID: 1051260552021465021}
-  song:
-    path: Musica/Blekk/Fear of God - Curta'n Wall (CROCODILE MOAT VER)_patched.mid
-  playOnStart: 0
-  unloadOnStop:
-    Enabled: 1
-    Value: 3
-  loop:
-    Enabled: 0
-    Value: 0
-  endTicks:
-    Enabled: 0
-    Value: 0
-  gain: 1
-  tempo: 1
-  channels: -1
 --- !u!1001 &1476627138262251790
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -115792,7 +115725,7 @@ SceneRoots:
   - {fileID: 1613265530}
   - {fileID: 8315549887804124595}
   - {fileID: 2064920839}
-  - {fileID: 1051260552021465019}
+  - {fileID: 1342543976715882464}
   - {fileID: 4180757162770112847}
   - {fileID: 578687664}
   - {fileID: 50996262}

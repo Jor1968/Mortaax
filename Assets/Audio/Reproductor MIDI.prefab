@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4099492766694598678
+--- !u!1 &2457756076026812565
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,12 +8,13 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4480117154347264417}
-  - component: {fileID: 3128038806857029147}
-  - component: {fileID: 2033698568316963221}
-  - component: {fileID: 5440144885478648009}
-  - component: {fileID: 1459271137579147298}
-  - component: {fileID: 836316320410065497}
+  - component: {fileID: 4573867832414846479}
+  - component: {fileID: 1722967189087695263}
+  - component: {fileID: 5987013350033401024}
+  - component: {fileID: 349159823339785039}
+  - component: {fileID: 743881020431174518}
+  - component: {fileID: 1032332761889520731}
+  - component: {fileID: 8573788012947618903}
   m_Layer: 0
   m_Name: Reproductor MIDI
   m_TagString: Untagged
@@ -21,13 +22,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4480117154347264417
+--- !u!4 &4573867832414846479
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4099492766694598678}
+  m_GameObject: {fileID: 2457756076026812565}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.37758, y: -0.62955, z: 0}
@@ -36,35 +37,35 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3128038806857029147
+--- !u!114 &1722967189087695263
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4099492766694598678}
+  m_GameObject: {fileID: 2457756076026812565}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6935756e2d15d42448e50d732fdfa802, type: 3}
   m_Name: 
   m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.Synthesizer
   soundFont:
-    path: MT32.sf2
---- !u!114 &2033698568316963221
+    path: Soundfonts/Reality_GMGS_falcomod.sf2
+--- !u!114 &5987013350033401024
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4099492766694598678}
+  m_GameObject: {fileID: 2457756076026812565}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb7ebbfa35eb5254bbbedaf0354cc4e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.SongPlayer
-  synthesizer: {fileID: 3128038806857029147}
+  synthesizer: {fileID: 1722967189087695263}
   song:
-    path: "Summoning \u2014 Long Lost to Where No Pathway Goes [MIDIfind.com].mid"
+    path: Musica/Blekk/Falkenbach - The Heathenish Foray_patched.mid
   playOnStart: 0
   unloadOnStop:
     Enabled: 1
@@ -78,13 +79,85 @@ MonoBehaviour:
   gain: 1
   tempo: 1
   channels: -1
---- !u!82 &5440144885478648009
+--- !u!114 &349159823339785039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2457756076026812565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb7ebbfa35eb5254bbbedaf0354cc4e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.SongPlayer
+  synthesizer: {fileID: 1722967189087695263}
+  song:
+    path: "Musica/Charly Garcia No Soy Un Extra\xF1o_patched.mid"
+  playOnStart: 0
+  unloadOnStop:
+    Enabled: 1
+    Value: 3
+  loop:
+    Enabled: 0
+    Value: 0
+  endTicks:
+    Enabled: 0
+    Value: 0
+  gain: 1
+  tempo: 1
+  channels: -1
+--- !u!114 &743881020431174518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2457756076026812565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb7ebbfa35eb5254bbbedaf0354cc4e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.SongPlayer
+  synthesizer: {fileID: 1722967189087695263}
+  song:
+    path: Musica/Blekk/Fear of God - Curta'n Wall (CROCODILE MOAT VER)_patched.mid
+  playOnStart: 0
+  unloadOnStop:
+    Enabled: 1
+    Value: 3
+  loop:
+    Enabled: 0
+    Value: 0
+  endTicks:
+    Enabled: 0
+    Value: 0
+  gain: 1
+  tempo: 1
+  channels: -1
+--- !u!114 &1032332761889520731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2457756076026812565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67ed3e3d57c1c7448a5a2abd91569a6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.Playlist
+  songs:
+  - {fileID: 5987013350033401024}
+  - {fileID: 349159823339785039}
+  - {fileID: 743881020431174518}
+--- !u!82 &8573788012947618903
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4099492766694598678}
+  m_GameObject: {fileID: 2457756076026812565}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 1da2601a22af6d34cbd7710c1634900c, type: 2}
@@ -175,46 +248,3 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &1459271137579147298
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4099492766694598678}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67ed3e3d57c1c7448a5a2abd91569a6d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.Playlist
-  songs:
-  - {fileID: 2033698568316963221}
-  - {fileID: 836316320410065497}
---- !u!114 &836316320410065497
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4099492766694598678}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb7ebbfa35eb5254bbbedaf0354cc4e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.SongPlayer
-  synthesizer: {fileID: 3128038806857029147}
-  song:
-    path: (GS) Michael Jackson - Beat It.mid
-  playOnStart: 0
-  unloadOnStop:
-    Enabled: 1
-    Value: 3
-  loop:
-    Enabled: 0
-    Value: 0
-  endTicks:
-    Enabled: 0
-    Value: 0
-  gain: 1
-  tempo: 1
-  channels: -1
