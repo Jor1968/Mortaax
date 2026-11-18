@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2704566340116306678}
   - component: {fileID: 6807620484937192510}
   - component: {fileID: 2546211852643910470}
-  - component: {fileID: 1542204612231733018}
+  - component: {fileID: 3972840420421104306}
   m_Layer: 0
   m_Name: Dinamita
   m_TagString: Untagged
@@ -83,7 +83,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1054147737701540651, guid: 90acc9a1ff0b77d4ebc7669e84cf6b2f, type: 3}
+  m_Sprite: {fileID: -3701424139131232493, guid: 55eb9f24b01174846856011af1fefb63, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -121,7 +121,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!61 &1542204612231733018
+--- !u!61 &3972840420421104306
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -155,15 +155,15 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.057709217, y: -0.14313382}
+  m_Offset: {x: -0.08219977, y: -0.192366}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.36, y: 1.29}
+    oldSize: {x: 0.42, y: 1.59}
     newSize: {x: 0.21, y: 0.75}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.21316934, y: 0.9819881}
+  m_Size: {x: 0.23503712, y: 1.2052679}
   m_EdgeRadius: 0
