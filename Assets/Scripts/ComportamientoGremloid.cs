@@ -18,6 +18,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     public bool usandoTrabuco = false;
     public GameObject puntoRespawn;
     public GameObject proyectil;
+    public GameObject dinamita;
     public GameObject HitBoxMelee;
     public GameObject PuntoSpawn;
     public Animator animador;
@@ -48,6 +49,10 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
 
     private void comportamientoVivo()
     {
+        if (Input.GetKeyDown(KeyCode.H))
+        {
+            GameObject clonDinamita = Instantiate(dinamita, PuntoSpawn.transform.position, Quaternion.identity);
+        }
              
 
         if (Input.GetKeyDown(KeyCode.F) && usandoTrabuco == false)

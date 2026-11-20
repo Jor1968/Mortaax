@@ -12,6 +12,7 @@ TagManager:
   - TerrenoDestruible
   - TerrenoIndestructible
   - AtaqueMinar
+  - Explosion
   layers:
   - Default
   - TransparentFX
