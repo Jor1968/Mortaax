@@ -277,8 +277,8 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         if(segundos > 10)
         {
             transform.position = puntoRespawn.transform.position;
-            Dañar(-10);
             Vivo = true;
+            Dañar(-10);
             animador.Play("Idle");
             IndicadorVida.text = "Vida:" + Vida;
             StopCoroutine("Respawnear");

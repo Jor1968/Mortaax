@@ -19,12 +19,14 @@ public class ComportamientoObjetoBase : MonoBehaviour
     }
     public void Dañar(int Cantidad)
     {
+      if(Vivo == true){
         Vida = Vida - Cantidad;
         if(Vida <= 0 && Vivo == true)
         {   
             Vivo = false;
             Morir();
         }
+      }
     }
     /*public void EmpezarConteoBorrar()
     {
