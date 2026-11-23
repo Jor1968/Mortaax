@@ -43,6 +43,14 @@ public class ComportamientoCriaturaVoladora : ComportamientoObjetoBase
                 oww.Play();
             }
         }
+        else if(collision.collider.CompareTag("Explosion"))
+        {
+            Dañar(8);
+            if (!oww.isPlaying)
+            {
+                oww.Play();
+            }
+        }
 
     }
         public override void Morir()

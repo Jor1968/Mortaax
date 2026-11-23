@@ -171,4 +171,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ComportamientoObjetoBase
   Vida: 0
-  BorrarObjetoInutil: 1
+  Vivo: 0
+  TemporizadorBorrar: 5

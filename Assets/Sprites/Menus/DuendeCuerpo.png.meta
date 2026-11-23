@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2bcf16ee0481bad4c8ea1ed39732812c
+guid: fd691478451cb1046aaae25a8c86214f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1880182108712518012
-    second: Jaula_0
+      213: 9068526095985573120
+    second: DuendeCuerpo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jaula_0
+      name: DuendeCuerpo_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 7
         y: 11
-        width: 419
-        height: 482
+        width: 235
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c71cade8aafb71a10800000000000000
-      internalID: 1880182108712518012
+      spriteID: 00d749bef60e9dd70800000000000000
+      internalID: 9068526095985573120
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Jaula_0: 1880182108712518012
+      DuendeCuerpo_0: 9068526095985573120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

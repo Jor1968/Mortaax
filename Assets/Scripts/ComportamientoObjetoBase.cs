@@ -5,7 +5,7 @@ public class ComportamientoObjetoBase : MonoBehaviour
 {
     public int Vida;
     public bool Vivo;
-    public int TemporizadorBorrar = 0;
+    public float TemporizadorBorrar = 0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -36,10 +36,10 @@ public class ComportamientoObjetoBase : MonoBehaviour
     */
     public IEnumerator EmpezarConteoBorrar()
 {
-    WaitForSeconds delay = new WaitForSeconds(1);
+    WaitForSeconds delay = new WaitForSeconds(0.1f);
     while (true)
     {
-        if(TemporizadorBorrar > 2)
+        if(TemporizadorBorrar > 10)
         {
             Destroy(gameObject);
         }

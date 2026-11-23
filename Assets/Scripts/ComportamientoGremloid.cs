@@ -255,6 +255,15 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
             IndicadorOroGremloide.text = "Oro:" + OroGremloide;
             Destroy(collision.collider.gameObject);
         }
+        else if(collision.collider.CompareTag("Explosion"))
+        {
+            Dañar(8);
+            IndicadorVida.text = "Vida:" + Vida;
+            if (!oww.isPlaying)
+            {
+                oww.Play();
+            }
+        }
 
     }
 
