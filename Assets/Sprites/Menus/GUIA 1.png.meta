@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ee1283365deb3d54991bb6cc78114486
+guid: 045bdfe734da0024b8610692b427d161
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -254,18 +254,6 @@ TextureImporter:
   - first:
       213: 1163962055274244934
     second: GUIA 1_83
-  - first:
-      213: -644086633377537535
-    second: GUIA 1_84
-  - first:
-      213: 4449153121259416518
-    second: GUIA 1_85
-  - first:
-      213: 1432739380006133232
-    second: GUIA 1_86
-  - first:
-      213: -5078703031639725088
-    second: GUIA 1_87
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -378,9 +366,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 425
-        width: 22
-        height: 34
+        y: 427
+        width: 27
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,10 +387,10 @@ TextureImporter:
       name: GUIA 1_1
       rect:
         serializedVersion: 2
-        x: 24
-        y: 425
-        width: 16
-        height: 34
+        x: 29
+        y: 427
+        width: 19
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,10 +409,10 @@ TextureImporter:
       name: GUIA 1_2
       rect:
         serializedVersion: 2
-        x: 40
-        y: 425
-        width: 30
-        height: 24
+        x: 84
+        y: 427
+        width: 36
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,10 +431,10 @@ TextureImporter:
       name: GUIA 1_3
       rect:
         serializedVersion: 2
-        x: 70
-        y: 425
-        width: 30
-        height: 25
+        x: 121
+        y: 427
+        width: 38
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,10 +453,10 @@ TextureImporter:
       name: GUIA 1_4
       rect:
         serializedVersion: 2
-        x: 100
-        y: 425
-        width: 33
-        height: 34
+        x: 161
+        y: 456
+        width: 16
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,10 +475,10 @@ TextureImporter:
       name: GUIA 1_5
       rect:
         serializedVersion: 2
-        x: 132
-        y: 425
-        width: 24
-        height: 31
+        x: 178
+        y: 427
+        width: 28
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +497,10 @@ TextureImporter:
       name: GUIA 1_6
       rect:
         serializedVersion: 2
-        x: 156
-        y: 425
-        width: 31
-        height: 24
+        x: 48
+        y: 427
+        width: 35
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,10 +519,10 @@ TextureImporter:
       name: GUIA 1_7
       rect:
         serializedVersion: 2
-        x: 187
-        y: 425
-        width: 26
-        height: 25
+        x: 160
+        y: 427
+        width: 14
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,10 +541,10 @@ TextureImporter:
       name: GUIA 1_8
       rect:
         serializedVersion: 2
-        x: 215
-        y: 440
-        width: 14
-        height: 9
+        x: 206
+        y: 426
+        width: 36
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +563,10 @@ TextureImporter:
       name: GUIA 1_9
       rect:
         serializedVersion: 2
-        x: 230
-        y: 425
-        width: 46
-        height: 34
+        x: 243
+        y: 427
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -597,10 +585,10 @@ TextureImporter:
       name: GUIA 1_10
       rect:
         serializedVersion: 2
-        x: 276
-        y: 425
-        width: 29
-        height: 25
+        x: 277
+        y: 444
+        width: 17
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -619,10 +607,10 @@ TextureImporter:
       name: GUIA 1_11
       rect:
         serializedVersion: 2
-        x: 305
-        y: 425
-        width: 32
-        height: 25
+        x: 274
+        y: 427
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -641,10 +629,10 @@ TextureImporter:
       name: GUIA 1_12
       rect:
         serializedVersion: 2
-        x: 338
-        y: 425
-        width: 30
-        height: 24
+        x: 1
+        y: 363
+        width: 54
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -663,10 +651,10 @@ TextureImporter:
       name: GUIA 1_13
       rect:
         serializedVersion: 2
-        x: 368
-        y: 425
-        width: 30
-        height: 24
+        x: 55
+        y: 363
+        width: 35
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,10 +673,10 @@ TextureImporter:
       name: GUIA 1_14
       rect:
         serializedVersion: 2
-        x: 399
-        y: 425
-        width: 26
-        height: 25
+        x: 91
+        y: 363
+        width: 37
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -707,10 +695,10 @@ TextureImporter:
       name: GUIA 1_15
       rect:
         serializedVersion: 2
-        x: 425
-        y: 425
-        width: 30
-        height: 24
+        x: 130
+        y: 363
+        width: 35
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -729,10 +717,10 @@ TextureImporter:
       name: GUIA 1_16
       rect:
         serializedVersion: 2
-        x: 213
-        y: 425
-        width: 13
-        height: 9
+        x: 165
+        y: 363
+        width: 37
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -751,10 +739,10 @@ TextureImporter:
       name: GUIA 1_17
       rect:
         serializedVersion: 2
-        x: 1
-        y: 350
-        width: 39
-        height: 34
+        x: 203
+        y: 363
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -773,10 +761,10 @@ TextureImporter:
       name: GUIA 1_18
       rect:
         serializedVersion: 2
-        x: 67
-        y: 350
+        x: 234
+        y: 363
         width: 36
-        height: 34
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -795,10 +783,10 @@ TextureImporter:
       name: GUIA 1_19
       rect:
         serializedVersion: 2
-        x: 105
-        y: 375
-        width: 14
-        height: 8
+        x: 1
+        y: 299
+        width: 27
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -817,10 +805,10 @@ TextureImporter:
       name: GUIA 1_20
       rect:
         serializedVersion: 2
-        x: 43
-        y: 365
-        width: 14
-        height: 9
+        x: 61
+        y: 299
+        width: 42
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -839,10 +827,10 @@ TextureImporter:
       name: GUIA 1_21
       rect:
         serializedVersion: 2
-        x: 104
-        y: 350
-        width: 12
-        height: 24
+        x: 103
+        y: 299
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -861,10 +849,10 @@ TextureImporter:
       name: GUIA 1_22
       rect:
         serializedVersion: 2
-        x: 119
-        y: 350
-        width: 26
-        height: 24
+        x: 171
+        y: 299
+        width: 29
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -883,10 +871,10 @@ TextureImporter:
       name: GUIA 1_23
       rect:
         serializedVersion: 2
-        x: 145
-        y: 339
-        width: 29
-        height: 35
+        x: 247
+        y: 299
+        width: 14
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -905,10 +893,10 @@ TextureImporter:
       name: GUIA 1_24
       rect:
         serializedVersion: 2
-        x: 174
-        y: 350
-        width: 31
-        height: 24
+        x: 249
+        y: 328
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -927,10 +915,10 @@ TextureImporter:
       name: GUIA 1_25
       rect:
         serializedVersion: 2
-        x: 205
-        y: 350
-        width: 30
-        height: 24
+        x: 265
+        y: 299
+        width: 36
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -949,10 +937,10 @@ TextureImporter:
       name: GUIA 1_26
       rect:
         serializedVersion: 2
-        x: 236
-        y: 350
-        width: 31
-        height: 24
+        x: 302
+        y: 299
+        width: 34
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -971,10 +959,10 @@ TextureImporter:
       name: GUIA 1_27
       rect:
         serializedVersion: 2
-        x: 266
-        y: 350
-        width: 31
-        height: 24
+        x: 32
+        y: 317
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,10 +981,10 @@ TextureImporter:
       name: GUIA 1_28
       rect:
         serializedVersion: 2
-        x: 40
-        y: 350
-        width: 13
-        height: 9
+        x: 135
+        y: 299
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1015,10 +1003,10 @@ TextureImporter:
       name: GUIA 1_29
       rect:
         serializedVersion: 2
-        x: 1
-        y: 297
-        width: 33
-        height: 35
+        x: 212
+        y: 286
+        width: 34
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,10 +1025,10 @@ TextureImporter:
       name: GUIA 1_30
       rect:
         serializedVersion: 2
-        x: 30
-        y: 297
-        width: 30
-        height: 24
+        x: 28
+        y: 299
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1059,10 +1047,10 @@ TextureImporter:
       name: GUIA 1_31
       rect:
         serializedVersion: 2
-        x: 61
-        y: 297
-        width: 31
-        height: 24
+        x: 1
+        y: 235
+        width: 39
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1081,10 +1069,10 @@ TextureImporter:
       name: GUIA 1_32
       rect:
         serializedVersion: 2
-        x: 92
-        y: 297
-        width: 29
-        height: 34
+        x: 75
+        y: 235
+        width: 41
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1103,10 +1091,10 @@ TextureImporter:
       name: GUIA 1_33
       rect:
         serializedVersion: 2
-        x: 121
-        y: 297
-        width: 30
-        height: 24
+        x: 269
+        y: 235
+        width: 35
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1125,10 +1113,10 @@ TextureImporter:
       name: GUIA 1_34
       rect:
         serializedVersion: 2
-        x: 152
-        y: 297
-        width: 30
-        height: 24
+        x: 309
+        y: 265
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1147,10 +1135,10 @@ TextureImporter:
       name: GUIA 1_35
       rect:
         serializedVersion: 2
-        x: 182
-        y: 297
-        width: 30
-        height: 24
+        x: 360
+        y: 236
+        width: 29
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1169,10 +1157,10 @@ TextureImporter:
       name: GUIA 1_36
       rect:
         serializedVersion: 2
-        x: 1
-        y: 231
-        width: 22
-        height: 34
+        x: 45
+        y: 253
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1191,10 +1179,10 @@ TextureImporter:
       name: GUIA 1_37
       rect:
         serializedVersion: 2
-        x: 26
-        y: 246
-        width: 14
-        height: 9
+        x: 117
+        y: 236
+        width: 30
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1213,10 +1201,10 @@ TextureImporter:
       name: GUIA 1_38
       rect:
         serializedVersion: 2
-        x: 51
-        y: 231
-        width: 33
-        height: 34
+        x: 148
+        y: 235
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1235,10 +1223,10 @@ TextureImporter:
       name: GUIA 1_39
       rect:
         serializedVersion: 2
-        x: 83
-        y: 231
-        width: 24
-        height: 31
+        x: 184
+        y: 236
+        width: 37
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1257,10 +1245,10 @@ TextureImporter:
       name: GUIA 1_40
       rect:
         serializedVersion: 2
-        x: 106
-        y: 231
-        width: 31
-        height: 24
+        x: 234
+        y: 236
+        width: 34
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,10 +1267,10 @@ TextureImporter:
       name: GUIA 1_41
       rect:
         serializedVersion: 2
-        x: 137
-        y: 221
-        width: 29
-        height: 33
+        x: 301
+        y: 224
+        width: 20
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1301,10 +1289,10 @@ TextureImporter:
       name: GUIA 1_42
       rect:
         serializedVersion: 2
-        x: 165
-        y: 231
-        width: 31
-        height: 25
+        x: 324
+        y: 236
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1323,10 +1311,10 @@ TextureImporter:
       name: GUIA 1_43
       rect:
         serializedVersion: 2
-        x: 197
-        y: 231
-        width: 30
-        height: 24
+        x: 389
+        y: 236
+        width: 34
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1345,10 +1333,10 @@ TextureImporter:
       name: GUIA 1_44
       rect:
         serializedVersion: 2
-        x: 237
-        y: 231
-        width: 30
-        height: 25
+        x: 42
+        y: 235
+        width: 15
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1367,10 +1355,10 @@ TextureImporter:
       name: GUIA 1_45
       rect:
         serializedVersion: 2
-        x: 267
-        y: 231
-        width: 29
-        height: 25
+        x: 3
+        y: 201
+        width: 16
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1389,10 +1377,10 @@ TextureImporter:
       name: GUIA 1_46
       rect:
         serializedVersion: 2
-        x: 297
-        y: 231
-        width: 33
-        height: 24
+        x: 173
+        y: 172
+        width: 28
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1411,9 +1399,9 @@ TextureImporter:
       name: GUIA 1_47
       rect:
         serializedVersion: 2
-        x: 23
-        y: 231
-        width: 14
+        x: 278
+        y: 201
+        width: 16
         height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1434,9 +1422,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 178
-        width: 28
-        height: 34
+        y: 172
+        width: 14
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1455,10 +1443,10 @@ TextureImporter:
       name: GUIA 1_49
       rect:
         serializedVersion: 2
-        x: 30
-        y: 178
-        width: 12
-        height: 24
+        x: 19
+        y: 172
+        width: 40
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1477,10 +1465,10 @@ TextureImporter:
       name: GUIA 1_50
       rect:
         serializedVersion: 2
-        x: 31
-        y: 202
-        width: 14
-        height: 9
+        x: 59
+        y: 172
+        width: 37
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1499,10 +1487,10 @@ TextureImporter:
       name: GUIA 1_51
       rect:
         serializedVersion: 2
-        x: 45
-        y: 178
-        width: 30
-        height: 24
+        x: 97
+        y: 172
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1521,10 +1509,10 @@ TextureImporter:
       name: GUIA 1_52
       rect:
         serializedVersion: 2
-        x: 75
-        y: 178
-        width: 29
-        height: 24
+        x: 133
+        y: 172
+        width: 40
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1543,10 +1531,10 @@ TextureImporter:
       name: GUIA 1_53
       rect:
         serializedVersion: 2
-        x: 2
-        y: 109
-        width: 25
-        height: 37
+        x: 201
+        y: 171
+        width: 37
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1565,10 +1553,10 @@ TextureImporter:
       name: GUIA 1_54
       rect:
         serializedVersion: 2
-        x: 59
-        y: 109
-        width: 28
-        height: 37
+        x: 238
+        y: 172
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1587,10 +1575,10 @@ TextureImporter:
       name: GUIA 1_55
       rect:
         serializedVersion: 2
-        x: 99
-        y: 139
-        width: 10
-        height: 9
+        x: 276
+        y: 172
+        width: 14
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1609,10 +1597,10 @@ TextureImporter:
       name: GUIA 1_56
       rect:
         serializedVersion: 2
-        x: 235
-        y: 109
-        width: 26
-        height: 39
+        x: 294
+        y: 172
+        width: 35
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1631,10 +1619,10 @@ TextureImporter:
       name: GUIA 1_57
       rect:
         serializedVersion: 2
-        x: 275
-        y: 139
-        width: 10
-        height: 9
+        x: 1
+        y: 108
+        width: 37
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1653,10 +1641,10 @@ TextureImporter:
       name: GUIA 1_58
       rect:
         serializedVersion: 2
-        x: 392
-        y: 139
-        width: 10
-        height: 9
+        x: 53
+        y: 107
+        width: 45
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1675,10 +1663,10 @@ TextureImporter:
       name: GUIA 1_59
       rect:
         serializedVersion: 2
-        x: 410
-        y: 109
-        width: 28
-        height: 36
+        x: 195
+        y: 107
+        width: 34
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1697,10 +1685,10 @@ TextureImporter:
       name: GUIA 1_60
       rect:
         serializedVersion: 2
-        x: 39
-        y: 128
-        width: 10
-        height: 10
+        x: 232
+        y: 137
+        width: 16
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1719,10 +1707,10 @@ TextureImporter:
       name: GUIA 1_61
       rect:
         serializedVersion: 2
-        x: 90
-        y: 109
-        width: 26
-        height: 28
+        x: 335
+        y: 107
+        width: 48
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1741,10 +1729,10 @@ TextureImporter:
       name: GUIA 1_62
       rect:
         serializedVersion: 2
-        x: 118
-        y: 109
-        width: 29
-        height: 29
+        x: 384
+        y: 107
+        width: 34
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1763,10 +1751,10 @@ TextureImporter:
       name: GUIA 1_63
       rect:
         serializedVersion: 2
-        x: 147
-        y: 109
-        width: 29
-        height: 29
+        x: 415
+        y: 96
+        width: 21
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1785,10 +1773,10 @@ TextureImporter:
       name: GUIA 1_64
       rect:
         serializedVersion: 2
-        x: 176
-        y: 109
-        width: 29
-        height: 29
+        x: 423
+        y: 137
+        width: 15
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1807,10 +1795,10 @@ TextureImporter:
       name: GUIA 1_65
       rect:
         serializedVersion: 2
-        x: 266
-        y: 109
-        width: 26
-        height: 28
+        x: 35
+        y: 125
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1829,9 +1817,9 @@ TextureImporter:
       name: GUIA 1_66
       rect:
         serializedVersion: 2
-        x: 296
-        y: 109
-        width: 24
+        x: 99
+        y: 107
+        width: 36
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1851,10 +1839,10 @@ TextureImporter:
       name: GUIA 1_67
       rect:
         serializedVersion: 2
-        x: 323
-        y: 109
-        width: 29
-        height: 29
+        x: 136
+        y: 108
+        width: 58
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1873,10 +1861,10 @@ TextureImporter:
       name: GUIA 1_68
       rect:
         serializedVersion: 2
-        x: 353
-        y: 109
-        width: 27
-        height: 29
+        x: 230
+        y: 108
+        width: 15
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1895,10 +1883,10 @@ TextureImporter:
       name: GUIA 1_69
       rect:
         serializedVersion: 2
-        x: 383
-        y: 109
-        width: 26
-        height: 28
+        x: 249
+        y: 107
+        width: 36
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1917,10 +1905,10 @@ TextureImporter:
       name: GUIA 1_70
       rect:
         serializedVersion: 2
-        x: 440
-        y: 109
-        width: 29
-        height: 29
+        x: 285
+        y: 108
+        width: 37
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1939,10 +1927,10 @@ TextureImporter:
       name: GUIA 1_71
       rect:
         serializedVersion: 2
-        x: 39
-        y: 109
-        width: 10
-        height: 9
+        x: 439
+        y: 108
+        width: 35
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1961,10 +1949,10 @@ TextureImporter:
       name: GUIA 1_72
       rect:
         serializedVersion: 2
-        x: 5
-        y: 36
-        width: 24
-        height: 35
+        x: 32
+        y: 108
+        width: 15
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1983,10 +1971,10 @@ TextureImporter:
       name: GUIA 1_73
       rect:
         serializedVersion: 2
-        x: 115
-        y: 36
-        width: 30
-        height: 25
+        x: 1
+        y: 44
+        width: 12
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2005,10 +1993,10 @@ TextureImporter:
       name: GUIA 1_74
       rect:
         serializedVersion: 2
-        x: 147
-        y: 61
-        width: 14
-        height: 8
+        x: 54
+        y: 44
+        width: 37
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2027,10 +2015,10 @@ TextureImporter:
       name: GUIA 1_75
       rect:
         serializedVersion: 2
-        x: 161
-        y: 36
-        width: 29
-        height: 25
+        x: 169
+        y: 44
+        width: 28
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2049,10 +2037,10 @@ TextureImporter:
       name: GUIA 1_76
       rect:
         serializedVersion: 2
-        x: 208
-        y: 36
-        width: 30
-        height: 35
+        x: 274
+        y: 73
+        width: 16
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2071,10 +2059,10 @@ TextureImporter:
       name: GUIA 1_77
       rect:
         serializedVersion: 2
-        x: 270
-        y: 36
-        width: 16
-        height: 35
+        x: 290
+        y: 44
+        width: 34
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2093,10 +2081,10 @@ TextureImporter:
       name: GUIA 1_78
       rect:
         serializedVersion: 2
-        x: 286
-        y: 36
-        width: 24
-        height: 31
+        x: 15
+        y: 44
+        width: 39
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2115,10 +2103,10 @@ TextureImporter:
       name: GUIA 1_79
       rect:
         serializedVersion: 2
-        x: 29
-        y: 36
-        width: 26
-        height: 24
+        x: 93
+        y: 44
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2137,10 +2125,10 @@ TextureImporter:
       name: GUIA 1_80
       rect:
         serializedVersion: 2
-        x: 55
-        y: 26
-        width: 29
-        height: 34
+        x: 129
+        y: 44
+        width: 40
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2159,10 +2147,10 @@ TextureImporter:
       name: GUIA 1_81
       rect:
         serializedVersion: 2
-        x: 84
-        y: 36
-        width: 31
-        height: 24
+        x: 197
+        y: 44
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2181,10 +2169,10 @@ TextureImporter:
       name: GUIA 1_82
       rect:
         serializedVersion: 2
-        x: 146
-        y: 36
-        width: 12
-        height: 24
+        x: 234
+        y: 44
+        width: 36
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2203,10 +2191,10 @@ TextureImporter:
       name: GUIA 1_83
       rect:
         serializedVersion: 2
-        x: 193
-        y: 51
+        x: 272
+        y: 44
         width: 14
-        height: 9
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2217,94 +2205,6 @@ TextureImporter:
       bones: []
       spriteID: 64ba7a48259372010800000000000000
       internalID: 1163962055274244934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUIA 1_84
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 36
-        width: 31
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10264f49e9ebf07f0800000000000000
-      internalID: -644086633377537535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUIA 1_85
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 36
-        width: 31
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6cbecffe0319ebd30800000000000000
-      internalID: 4449153121259416518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUIA 1_86
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 36
-        width: 31
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0fd9af800ec12e310800000000000000
-      internalID: 1432739380006133232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUIA 1_87
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 36
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0eb2a673082d489b0800000000000000
-      internalID: -5078703031639725088
       vertices: []
       indices: 
       edges: []
@@ -2406,10 +2306,6 @@ TextureImporter:
       GUIA 1_81: 6861678536363612212
       GUIA 1_82: -4812662469274910716
       GUIA 1_83: 1163962055274244934
-      GUIA 1_84: -644086633377537535
-      GUIA 1_85: 4449153121259416518
-      GUIA 1_86: 1432739380006133232
-      GUIA 1_87: -5078703031639725088
       GUIA 1_9: 4340813161540713103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
