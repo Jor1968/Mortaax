@@ -13,6 +13,7 @@ TagManager:
   - TerrenoIndestructible
   - AtaqueMinar
   - Explosion
+  - TesoroCondicionGanar
   layers:
   - Default
   - TransparentFX

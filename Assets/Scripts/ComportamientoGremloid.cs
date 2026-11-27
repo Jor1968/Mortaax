@@ -9,22 +9,24 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     public float multiplicadorVelocidad = 20;
     public float multiplicadorSalto = 20;
     public int OroGremloide = 10;
+    public int TesorosAgarrados = 0;
     public Vector3 velocity = new Vector3();
     public SpriteRenderer imagen;
     public Rigidbody2D cuerpo;
     public BoxCollider2D colisionadorPie;
     public bool estaEnElSuelo = true;
     public bool usandoPico = false;
-    public bool usandoTrabuco = false;
+    public bool usandoObjeto = false;
+    public string objetoElegido;
+    public HUD_Codigo HUD;
     public GameObject puntoRespawn;
-    public GameObject proyectil;
+    public GameObject perdigon;
+    public GameObject cascote;
     public GameObject dinamita;
     public GameObject HitBoxMelee;
     public GameObject PuntoSpawn;
     public Animator animador;
     public Camera camara;
-    public TextMeshProUGUI IndicadorVida;
-    public TextMeshProUGUI IndicadorOroGremloide;
     public AudioSource boing;
     public AudioSource disparo;
     public AudioSource oww;
@@ -32,8 +34,11 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     void Start()
     {
         Debug.Log($"{gameObject.name} spawneado");
-        IndicadorVida.text = "Vida:" + Vida;
-        IndicadorOroGremloide.text = "Oro:" + OroGremloide;
+        objetoElegido = "cascote";
+        HUD.actualizarObjetoSeleccionado(objetoElegido);
+        HUD.actualizarVida(Vida);
+        HUD.actualizarOro(OroGremloide);
+        HUD.actualizarOro(TesorosAgarrados);
     }
 
     // Update is called once per frame
@@ -49,19 +54,36 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
 
     private void comportamientoVivo()
     {
+        if (Input.GetKeyDown(KeyCode.Y))
+        {
+            if(objetoElegido == "trabuco")
+            {
+              objetoElegido = "cascote";
+              animador.SetBool("cascoteSeleccion", true);
+              animador.SetBool("trabucoSeleccion", false);
+            }
+            else if(objetoElegido == "cascote")
+            {
+              objetoElegido = "trabuco";
+              animador.SetBool("trabucoSeleccion", true);
+              animador.SetBool("cascoteSeleccion", false);
+            }
+            HUD.actualizarObjetoSeleccionado(objetoElegido);
+        }
+        //animador.SetBool(objetoElegido + "Seleccion", true);
         if (Input.GetKeyDown(KeyCode.H))
         {
             GameObject clonDinamita = Instantiate(dinamita, PuntoSpawn.transform.position, Quaternion.identity);
         }
              
 
-        if (Input.GetKeyDown(KeyCode.F) && usandoTrabuco == false)
+        if (Input.GetKeyDown(KeyCode.F) && usandoObjeto == false)
         {
             usandoPico = true;
         }
         if (Input.GetKeyDown(KeyCode.G) &&  usandoPico == false)
         {
-            usandoTrabuco = true;
+            usandoObjeto = true;
         }
 
        if(usandoPico == true)
@@ -73,7 +95,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
             animador.SetBool("Minando", false);
         }
 
-        if(usandoTrabuco == true)
+        if(usandoObjeto == true)
         {   Input.ResetInputAxes();
             animador.SetBool("Disparando", true);
 
@@ -143,19 +165,43 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     public void FinAnimacion()
     {
         usandoPico = false;
-        usandoTrabuco = false;
+        usandoObjeto = false;
         Debug.Log("se acabo la animacion");
     }
 
     public void AtaqueProyectil()
     {
+        if(objetoElegido == "cascote")
+        {
+          AtaqueProyectilCascote();
+        }
+        else if(objetoElegido == "trabuco")
+        {
+            AtaqueProyectilTrabuco();
+        }
+        
+
+    }
+    public void AtaqueProyectilCascote()
+    {
+        GameObject clone = Instantiate(cascote, PuntoSpawn.transform.position, Quaternion.identity);
+        if(imagen.flipX == false){
+        clone.GetComponent<Rigidbody2D>().linearVelocityX = 5;
+        }
+        else
+        {
+        clone.GetComponent<Rigidbody2D>().linearVelocityX = -5;
+        }
+    }
+    public void AtaqueProyectilTrabuco()
+    {
             if (!disparo.isPlaying)
             {
                 disparo.Play();
             }
-        GameObject clone = Instantiate(proyectil, PuntoSpawn.transform.position, Quaternion.identity);
-        GameObject clone2 = Instantiate(proyectil, PuntoSpawn.transform.position, Quaternion.identity);
-        GameObject clone3 = Instantiate(proyectil, PuntoSpawn.transform.position, Quaternion.identity);
+        GameObject clone = Instantiate(perdigon, PuntoSpawn.transform.position, Quaternion.identity);
+        GameObject clone2 = Instantiate(perdigon, PuntoSpawn.transform.position, Quaternion.identity);
+        GameObject clone3 = Instantiate(perdigon, PuntoSpawn.transform.position, Quaternion.identity);
         clone.GetComponent<ComportamientoObjetoBase>().StartCoroutine("EmpezarConteoBorrar");
         clone2.GetComponent<ComportamientoObjetoBase>().StartCoroutine("EmpezarConteoBorrar");
         clone3.GetComponent<ComportamientoObjetoBase>().StartCoroutine("EmpezarConteoBorrar");
@@ -174,6 +220,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         }
         clone2.GetComponent<Rigidbody2D>().linearVelocityY = 2;
         clone3.GetComponent<Rigidbody2D>().linearVelocityY = -2;
+        
     }
     public void AtaqueCercano()
     {/*
@@ -203,7 +250,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         /*else*/ if(objeto.CompareTag("Trampa"))
         {
             Dañar(2);
-            IndicadorVida.text = "Vida:" + Vida;
+            HUD.actualizarVida(Vida);
             if (!oww.isPlaying)
             {
                 oww.Play();
@@ -231,7 +278,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         if(collision.collider.CompareTag("Criatura"))
         {
             Dañar(2);
-            IndicadorVida.text = "Vida:" + Vida;
+            HUD.actualizarVida(Vida);
             if (!oww.isPlaying)
             {
                 oww.Play();
@@ -240,7 +287,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
          else if(collision.collider.CompareTag("ItemSalud"))
         {
             Dañar(-2);
-            IndicadorVida.text = "Vida:" + Vida;
+            HUD.actualizarVida(Vida);
             if (!CurarSonido.isPlaying)
             {
                 CurarSonido.Play();
@@ -252,13 +299,23 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         else if(collision.collider.CompareTag("Recurso"))
         {
             OroGremloide = OroGremloide + 5;
-            IndicadorOroGremloide.text = "Oro:" + OroGremloide;
+            HUD.actualizarOro(OroGremloide);
+            Destroy(collision.collider.gameObject);
+        }
+        else if(collision.collider.CompareTag("TesoroCondicionGanar"))
+        {
+            TesorosAgarrados = TesorosAgarrados + 1;
+            HUD.actualizarTesoro(TesorosAgarrados);
+            if(TesorosAgarrados >= 2)
+            {
+            HUD.GanarPartida();
+            }
             Destroy(collision.collider.gameObject);
         }
         else if(collision.collider.CompareTag("Explosion"))
         {
             Dañar(8);
-            IndicadorVida.text = "Vida:" + Vida;
+            HUD.actualizarVida(Vida);
             if (!oww.isPlaying)
             {
                 oww.Play();
@@ -289,7 +346,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
             Vivo = true;
             Dañar(-10);
             animador.Play("Idle");
-            IndicadorVida.text = "Vida:" + Vida;
+            HUD.actualizarVida(Vida);
             StopCoroutine("Respawnear");
         }
         segundos += 1;

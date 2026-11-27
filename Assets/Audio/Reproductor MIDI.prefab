@@ -50,7 +50,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: ThunkMonkey.FluidMidi.Runtime::FluidMidi.Synthesizer
   soundFont:
-    path: Soundfonts/Reality_GMGS_falcomod.sf2
+    path: Soundfonts/uzdoom.sf2
 --- !u!114 &5987013350033401024
 MonoBehaviour:
   m_ObjectHideFlags: 0

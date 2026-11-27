@@ -14,12 +14,13 @@ public class ControladorMenu : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {/*
        if(marioSavio!= null){
         if(marioSavio.isPaused){
         marioSavio.targetCameraAlpha = 0;
         }
        }
+    */
     }
     void IniciarJuego()
     {
