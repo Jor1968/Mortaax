@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 using System;
-using TMPro;
 //using System.Numerics;
 public class ComportamientoGremloid : ComportamientoObjetoBase
 {
@@ -18,6 +18,8 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     public bool usandoPico = false;
     public bool usandoObjeto = false;
     public string objetoElegido;
+    public int numeroInventario = 2;
+    public Dictionary<int, string> inventario = new Dictionary<int, string>();
     public HUD_Codigo HUD;
     public GameObject puntoRespawn;
     public GameObject perdigon;
@@ -34,7 +36,22 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     void Start()
     {
         Debug.Log($"{gameObject.name} spawneado");
-        objetoElegido = "cascote";
+        inventario.Add(0,"cascote");
+        inventario.Add(1,"dinamita");
+        inventario.Add(2,"trabuco");
+        objetoElegido = inventario[numeroInventario];
+
+        if(objetoElegido == "trabuco")
+            {
+                animador.SetBool("trabucoSeleccion", true);
+                animador.SetBool("cascoteSeleccion", false);
+            }
+        else
+            {
+                animador.SetBool("trabucoSeleccion", false);
+                animador.SetBool("cascoteSeleccion", true);
+            }
+        
         HUD.actualizarObjetoSeleccionado(objetoElegido);
         HUD.actualizarVida(Vida);
         HUD.actualizarOro(OroGremloide);
@@ -53,29 +70,50 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     }
 
     private void comportamientoVivo()
-    {
+    {/*
         if (Input.GetKeyDown(KeyCode.Y))
         {
             if(objetoElegido == "trabuco")
             {
               objetoElegido = "cascote";
-              animador.SetBool("cascoteSeleccion", true);
+              //animador.SetBool("cascoteSeleccion", true);
               animador.SetBool("trabucoSeleccion", false);
             }
             else if(objetoElegido == "cascote")
             {
               objetoElegido = "trabuco";
               animador.SetBool("trabucoSeleccion", true);
-              animador.SetBool("cascoteSeleccion", false);
+              //animador.SetBool("cascoteSeleccion", false);
             }
             HUD.actualizarObjetoSeleccionado(objetoElegido);
         }
-        //animador.SetBool(objetoElegido + "Seleccion", true);
-        if (Input.GetKeyDown(KeyCode.H))
+        */
+        if (Input.GetKeyDown(KeyCode.Y) && usandoObjeto == false)
         {
-            GameObject clonDinamita = Instantiate(dinamita, PuntoSpawn.transform.position, Quaternion.identity);
+            if(numeroInventario < inventario.Count -1)
+            {
+                numeroInventario = numeroInventario + 1;
+            }
+            else
+            {
+                numeroInventario = 0;
+            }
+
+            objetoElegido = inventario[numeroInventario];
+            if(objetoElegido == "trabuco")
+            {
+                animador.SetBool("trabucoSeleccion", true);
+                animador.SetBool("cascoteSeleccion", false);
+            }
+            else
+            {
+                animador.SetBool("trabucoSeleccion", false);
+                animador.SetBool("cascoteSeleccion", true);
+            }
+            HUD.actualizarObjetoSeleccionado(objetoElegido);
         }
-             
+
+
 
         if (Input.GetKeyDown(KeyCode.F) && usandoObjeto == false)
         {
@@ -179,8 +217,16 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         {
             AtaqueProyectilTrabuco();
         }
+        else if(objetoElegido == "dinamita"){
+            AtaqueProyectilDinamita();
+            
+        }
         
 
+    }
+    public void AtaqueProyectilDinamita()
+    {
+        GameObject clonDinamita = Instantiate(dinamita, PuntoSpawn.transform.position, Quaternion.identity);
     }
     public void AtaqueProyectilCascote()
     {

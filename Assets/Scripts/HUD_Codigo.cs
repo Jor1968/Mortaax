@@ -21,6 +21,11 @@ public class HUD_Codigo : MonoBehaviour
         diccionarioSprites.Add("trabuco",spriteTrabuco);
         diccionarioSprites.Add("dinamita",spriteDinamita);
         diccionarioSprites.Add("cascote",spriteCascote);
+        
+        foreach(string i in diccionarioSprites.Keys)
+        {
+            Debug.Log(i);
+        }
     }
 
     // Update is called once per frame
@@ -42,8 +47,11 @@ public class HUD_Codigo : MonoBehaviour
     }
     public void actualizarObjetoSeleccionado(string objeto)
     {
+        Debug.Log(objeto);
+
         ObjetoSeleccionadoImagen.sprite = diccionarioSprites[objeto];
-        ObjetoSeleccionadoTexto.text = "Objeto Selec del INVENTARIO: \n" + objeto + ".";
+        //ObjetoSeleccionadoTexto.text = "Objeto Selec del INVENTARIO: \n" + objeto + ".";
+        ObjetoSeleccionadoTexto.text = objeto;
     }
     public void GanarPartida()
     {
