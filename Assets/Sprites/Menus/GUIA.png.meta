@@ -1,259 +1,259 @@
 fileFormatVersion: 2
-guid: 045bdfe734da0024b8610692b427d161
+guid: 732dd391431d8014cb824ffe8dbba0a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3956362537677763940
-    second: GUIA 1_0
+      213: 969602608638228439
+    second: GUIA_0
   - first:
-      213: -2049075516834826122
-    second: GUIA 1_1
+      213: 4996073126429786496
+    second: GUIA_1
   - first:
-      213: -1902733641959559561
-    second: GUIA 1_2
+      213: -5496204083027613761
+    second: GUIA_2
   - first:
-      213: -9192086597285117858
-    second: GUIA 1_3
+      213: 101364385715866815
+    second: GUIA_3
   - first:
-      213: -2726961516401816521
-    second: GUIA 1_4
+      213: 3431286232621286221
+    second: GUIA_4
   - first:
-      213: -1247168691469778040
-    second: GUIA 1_5
+      213: 74545707290440869
+    second: GUIA_5
   - first:
-      213: -6991444164571343721
-    second: GUIA 1_6
+      213: -1748733763008192484
+    second: GUIA_6
   - first:
-      213: -5435444526560493964
-    second: GUIA 1_7
+      213: -8603916879023971761
+    second: GUIA_7
   - first:
-      213: 9013642233137615169
-    second: GUIA 1_8
+      213: -4454533699300920399
+    second: GUIA_8
   - first:
-      213: 4340813161540713103
-    second: GUIA 1_9
+      213: 968176453589548436
+    second: GUIA_9
   - first:
-      213: -621793388641846925
-    second: GUIA 1_10
+      213: 3569698342107559347
+    second: GUIA_10
   - first:
-      213: -7263760768032115665
-    second: GUIA 1_11
+      213: 8440671570936887933
+    second: GUIA_11
   - first:
-      213: 1053600791173287984
-    second: GUIA 1_12
+      213: -7296354125828778575
+    second: GUIA_12
   - first:
-      213: 88831308129250412
-    second: GUIA 1_13
+      213: 1388994562406465981
+    second: GUIA_13
   - first:
-      213: 2352983204744210399
-    second: GUIA 1_14
+      213: -1768835606638270759
+    second: GUIA_14
   - first:
-      213: 8745502153091704006
-    second: GUIA 1_15
+      213: 7645749608663263997
+    second: GUIA_15
   - first:
-      213: -121008178748004814
-    second: GUIA 1_16
+      213: 2715232633505072780
+    second: GUIA_16
   - first:
-      213: -5772261473737552776
-    second: GUIA 1_17
+      213: -105730019807919673
+    second: GUIA_17
   - first:
-      213: -9026880777757857213
-    second: GUIA 1_18
+      213: 2630282995537874794
+    second: GUIA_18
   - first:
-      213: 188243825483345799
-    second: GUIA 1_19
+      213: -513886559752491656
+    second: GUIA_19
   - first:
-      213: 7674018802987131016
-    second: GUIA 1_20
+      213: -8169735618906097756
+    second: GUIA_20
   - first:
-      213: -6958111356537909071
-    second: GUIA 1_21
+      213: -8107402647317051784
+    second: GUIA_21
   - first:
-      213: 3816855470559977176
-    second: GUIA 1_22
+      213: -1977961504798078576
+    second: GUIA_22
   - first:
-      213: -4406918590209097640
-    second: GUIA 1_23
+      213: -5093839537030344270
+    second: GUIA_23
   - first:
-      213: -8661990962792652952
-    second: GUIA 1_24
+      213: 8920868476395579590
+    second: GUIA_24
   - first:
-      213: 6192563341441760423
-    second: GUIA 1_25
+      213: 419478119122417692
+    second: GUIA_25
   - first:
-      213: -8037592028358940827
-    second: GUIA 1_26
+      213: -2063177865063548207
+    second: GUIA_26
   - first:
-      213: 1109063501845453458
-    second: GUIA 1_27
+      213: 1041525339368862792
+    second: GUIA_27
   - first:
-      213: 1833559850763704705
-    second: GUIA 1_28
+      213: 8210246400259255717
+    second: GUIA_28
   - first:
-      213: 7789077524385008849
-    second: GUIA 1_29
+      213: 3454567519546070814
+    second: GUIA_29
   - first:
-      213: -1972718497848663100
-    second: GUIA 1_30
+      213: -535900070759438752
+    second: GUIA_30
   - first:
-      213: -1453672840854037114
-    second: GUIA 1_31
+      213: 91971409637141813
+    second: GUIA_31
   - first:
-      213: 2352961524047522149
-    second: GUIA 1_32
+      213: -8926866793954593642
+    second: GUIA_32
   - first:
-      213: 2345400437275534128
-    second: GUIA 1_33
+      213: 3150499999721068796
+    second: GUIA_33
   - first:
-      213: 108838925234676872
-    second: GUIA 1_34
+      213: 3024695144417974021
+    second: GUIA_34
   - first:
-      213: -1057255365191237352
-    second: GUIA 1_35
+      213: 593069719217335758
+    second: GUIA_35
   - first:
-      213: 5659079711646742042
-    second: GUIA 1_36
+      213: 1600431230649856336
+    second: GUIA_36
   - first:
-      213: 8627112537223835324
-    second: GUIA 1_37
+      213: 5408058433038051605
+    second: GUIA_37
   - first:
-      213: 4331089093013438210
-    second: GUIA 1_38
+      213: -1551603847556220959
+    second: GUIA_38
   - first:
-      213: -4199341940757925388
-    second: GUIA 1_39
+      213: 5174585415506401200
+    second: GUIA_39
   - first:
-      213: 8134146148804026731
-    second: GUIA 1_40
+      213: 8560105838902611172
+    second: GUIA_40
   - first:
-      213: 7242594701609091204
-    second: GUIA 1_41
+      213: 6627062024994820886
+    second: GUIA_41
   - first:
-      213: 9133032869777025052
-    second: GUIA 1_42
+      213: -8529109005943726503
+    second: GUIA_42
   - first:
-      213: -4284048277295902463
-    second: GUIA 1_43
+      213: -3707635793733984390
+    second: GUIA_43
   - first:
-      213: 4958008294108825026
-    second: GUIA 1_44
+      213: 3695206462293333322
+    second: GUIA_44
   - first:
-      213: 3627162670757049842
-    second: GUIA 1_45
+      213: -7463677581194145766
+    second: GUIA_45
   - first:
-      213: -5223312728604694214
-    second: GUIA 1_46
+      213: 5094199993569785592
+    second: GUIA_46
   - first:
-      213: -4561714706341949183
-    second: GUIA 1_47
+      213: 8593304015537605198
+    second: GUIA_47
   - first:
-      213: 569361284006368903
-    second: GUIA 1_48
+      213: -1565266793656255558
+    second: GUIA_48
   - first:
-      213: 9104456294045794016
-    second: GUIA 1_49
+      213: 4669905582656152544
+    second: GUIA_49
   - first:
-      213: -7140728957728777092
-    second: GUIA 1_50
+      213: -2297959953776181904
+    second: GUIA_50
   - first:
-      213: 5563670820109124132
-    second: GUIA 1_51
+      213: -1971258182631330161
+    second: GUIA_51
   - first:
-      213: 4365323887729831979
-    second: GUIA 1_52
+      213: 1813388444506472192
+    second: GUIA_52
   - first:
-      213: -737354971117575528
-    second: GUIA 1_53
+      213: 6938159377803119889
+    second: GUIA_53
   - first:
-      213: -2931515266984278923
-    second: GUIA 1_54
+      213: 2511807449293806590
+    second: GUIA_54
   - first:
-      213: -2610651092468486691
-    second: GUIA 1_55
+      213: -6351838655574787416
+    second: GUIA_55
   - first:
-      213: -2088354552019452698
-    second: GUIA 1_56
+      213: 3105122981055182624
+    second: GUIA_56
   - first:
-      213: -9164080394645422442
-    second: GUIA 1_57
+      213: -6574728104613968429
+    second: GUIA_57
   - first:
-      213: 788327838878157334
-    second: GUIA 1_58
+      213: 2921623644641182904
+    second: GUIA_58
   - first:
-      213: 5234003927001168294
-    second: GUIA 1_59
+      213: 444127898489582860
+    second: GUIA_59
   - first:
-      213: 1366279016464278414
-    second: GUIA 1_60
+      213: -2555679074085509373
+    second: GUIA_60
   - first:
-      213: -1437878718576375823
-    second: GUIA 1_61
+      213: 8245182770416006508
+    second: GUIA_61
   - first:
-      213: -102769191087022554
-    second: GUIA 1_62
+      213: -7251533944387189655
+    second: GUIA_62
   - first:
-      213: -4682006862845341916
-    second: GUIA 1_63
+      213: 1513037654830124130
+    second: GUIA_63
   - first:
-      213: -3108323367374616676
-    second: GUIA 1_64
+      213: -8413560458792130409
+    second: GUIA_64
   - first:
-      213: 6599087693101901211
-    second: GUIA 1_65
+      213: -4587547768510998294
+    second: GUIA_65
   - first:
-      213: -4728767048984138963
-    second: GUIA 1_66
+      213: -3174759846123496425
+    second: GUIA_66
   - first:
-      213: 181160173805191061
-    second: GUIA 1_67
+      213: -4765086342590308006
+    second: GUIA_67
   - first:
-      213: 1090692203808292731
-    second: GUIA 1_68
+      213: -5962597897282874209
+    second: GUIA_68
   - first:
-      213: 7051408461110048684
-    second: GUIA 1_69
+      213: -7348677646357594430
+    second: GUIA_69
   - first:
-      213: 8303077702052133816
-    second: GUIA 1_70
+      213: 2913002934527045161
+    second: GUIA_70
   - first:
-      213: -396236267015291853
-    second: GUIA 1_71
+      213: -4250554636598923213
+    second: GUIA_71
   - first:
-      213: -179096381544940532
-    second: GUIA 1_72
+      213: -606817167436199108
+    second: GUIA_72
   - first:
-      213: 5116116227887932927
-    second: GUIA 1_73
+      213: 1363768358403190656
+    second: GUIA_73
   - first:
-      213: 1341995752060707385
-    second: GUIA 1_74
+      213: 836954669573758400
+    second: GUIA_74
   - first:
-      213: 2708020567525918843
-    second: GUIA 1_75
+      213: 4884724739369763821
+    second: GUIA_75
   - first:
-      213: 2362170979511323166
-    second: GUIA 1_76
+      213: -379364706774426155
+    second: GUIA_76
   - first:
-      213: -5500845787513351423
-    second: GUIA 1_77
+      213: 3314106935808085829
+    second: GUIA_77
   - first:
-      213: 5322908104179080687
-    second: GUIA 1_78
+      213: -1359226884766911640
+    second: GUIA_78
   - first:
-      213: 6565572364351061283
-    second: GUIA 1_79
+      213: -6819806155580276761
+    second: GUIA_79
   - first:
-      213: -535957661577995889
-    second: GUIA 1_80
+      213: -7974068965833383702
+    second: GUIA_80
   - first:
-      213: 6861678536363612212
-    second: GUIA 1_81
+      213: 7010579341181723457
+    second: GUIA_81
   - first:
-      213: -4812662469274910716
-    second: GUIA 1_82
+      213: 2795849038223737174
+    second: GUIA_82
   - first:
-      213: 1163962055274244934
-    second: GUIA 1_83
+      213: 7744694364763895771
+    second: GUIA_83
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -362,7 +362,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GUIA 1_0
+      name: GUIA_0
       rect:
         serializedVersion: 2
         x: 1
@@ -377,14 +377,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 46532fc24c2d7e630800000000000000
-      internalID: 3956362537677763940
+      spriteID: 7d77c257f68b47d00800000000000000
+      internalID: 969602608638228439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_1
+      name: GUIA_1
       rect:
         serializedVersion: 2
         x: 29
@@ -399,14 +399,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6783c158ca83093e0800000000000000
-      internalID: -2049075516834826122
+      spriteID: 08109b4c90e955540800000000000000
+      internalID: 4996073126429786496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_2
+      name: GUIA_2
       rect:
         serializedVersion: 2
         x: 84
@@ -421,14 +421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 77ea0d075d12895e0800000000000000
-      internalID: -1902733641959559561
+      spriteID: fb76612b18f89b3b0800000000000000
+      internalID: -5496204083027613761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_3
+      name: GUIA_3
       rect:
         serializedVersion: 2
         x: 121
@@ -443,14 +443,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e50013801f52f6080800000000000000
-      internalID: -9192086597285117858
+      spriteID: fbc487b2f5e186100800000000000000
+      internalID: 101364385715866815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_4
+      name: GUIA_4
       rect:
         serializedVersion: 2
         x: 161
@@ -465,14 +465,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73c85bae2f2e72ad0800000000000000
-      internalID: -2726961516401816521
+      spriteID: d43841a16a06e9f20800000000000000
+      internalID: 3431286232621286221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_5
+      name: GUIA_5
       rect:
         serializedVersion: 2
         x: 178
@@ -487,14 +487,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88384f1deaa21bee0800000000000000
-      internalID: -1247168691469778040
+      spriteID: 5a4b3920de6d80100800000000000000
+      internalID: 74545707290440869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_6
+      name: GUIA_6
       rect:
         serializedVersion: 2
         x: 48
@@ -509,14 +509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7945fb7139669fe90800000000000000
-      internalID: -6991444164571343721
+      spriteID: c102a2168ef3bb7e0800000000000000
+      internalID: -1748733763008192484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_7
+      name: GUIA_7
       rect:
         serializedVersion: 2
         x: 160
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47e3506500c6194b0800000000000000
-      internalID: -5435444526560493964
+      spriteID: f42e9cc1f2fb89880800000000000000
+      internalID: -8603916879023971761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_8
+      name: GUIA_8
       rect:
         serializedVersion: 2
         x: 206
@@ -553,14 +553,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 14150aecad3e61d70800000000000000
-      internalID: 9013642233137615169
+      spriteID: 1b3792d93315e22c0800000000000000
+      internalID: -4454533699300920399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_9
+      name: GUIA_9
       rect:
         serializedVersion: 2
         x: 243
@@ -575,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8a79f1629aad3c30800000000000000
-      internalID: 4340813161540713103
+      spriteID: 49d3a1cda57af6d00800000000000000
+      internalID: 968176453589548436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_10
+      name: GUIA_10
       rect:
         serializedVersion: 2
         x: 277
@@ -597,14 +597,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 379f05a1532fe57f0800000000000000
-      internalID: -621793388641846925
+      spriteID: 3b53f94aabd1a8130800000000000000
+      internalID: 3569698342107559347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_11
+      name: GUIA_11
       rect:
         serializedVersion: 2
         x: 274
@@ -619,14 +619,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f24f6080110f13b90800000000000000
-      internalID: -7263760768032115665
+      spriteID: d7a7e6bb21a432570800000000000000
+      internalID: 8440671570936887933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_12
+      name: GUIA_12
       rect:
         serializedVersion: 2
         x: 1
@@ -641,14 +641,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03054fc56542f9e00800000000000000
-      internalID: 1053600791173287984
+      spriteID: 1b5158e84942eba90800000000000000
+      internalID: -7296354125828778575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_13
+      name: GUIA_13
       rect:
         serializedVersion: 2
         x: 55
@@ -663,14 +663,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6c2af5aa979b3100800000000000000
-      internalID: 88831308129250412
+      spriteID: db1cf2ff133b64310800000000000000
+      internalID: 1388994562406465981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_14
+      name: GUIA_14
       rect:
         serializedVersion: 2
         x: 91
@@ -685,14 +685,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd72d3112c977a020800000000000000
-      internalID: 2352983204744210399
+      spriteID: 9d663403365d377e0800000000000000
+      internalID: -1768835606638270759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_15
+      name: GUIA_15
       rect:
         serializedVersion: 2
         x: 130
@@ -707,14 +707,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c4e1716fd34e5970800000000000000
-      internalID: 8745502153091704006
+      spriteID: dfaa4f992c82b1a60800000000000000
+      internalID: 7645749608663263997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_16
+      name: GUIA_16
       rect:
         serializedVersion: 2
         x: 165
@@ -729,14 +729,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 236eecad3b7125ef0800000000000000
-      internalID: -121008178748004814
+      spriteID: c864e9ab1b17ea520800000000000000
+      internalID: 2715232633505072780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_17
+      name: GUIA_17
       rect:
         serializedVersion: 2
         x: 203
@@ -751,14 +751,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87c433bb5cec4efa0800000000000000
-      internalID: -5772261473737552776
+      spriteID: 7c1014f6b1f588ef0800000000000000
+      internalID: -105730019807919673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_18
+      name: GUIA_18
       rect:
         serializedVersion: 2
         x: 234
@@ -773,14 +773,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34ae0f352c31ab280800000000000000
-      internalID: -9026880777757857213
+      spriteID: a6f09c7d274a08420800000000000000
+      internalID: 2630282995537874794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_19
+      name: GUIA_19
       rect:
         serializedVersion: 2
         x: 1
@@ -795,14 +795,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78f681d03c6cc9200800000000000000
-      internalID: 188243825483345799
+      spriteID: 87dea1785ee4ed8f0800000000000000
+      internalID: -513886559752491656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_20
+      name: GUIA_20
       rect:
         serializedVersion: 2
         x: 61
@@ -817,14 +817,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88067bf41779f7a60800000000000000
-      internalID: 7674018802987131016
+      spriteID: 4a7fe3e5db44f9e80800000000000000
+      internalID: -8169735618906097756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_21
+      name: GUIA_21
       rect:
         serializedVersion: 2
         x: 103
@@ -839,14 +839,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b052fd3692df6f90800000000000000
-      internalID: -6958111356537909071
+      spriteID: 8760b934f38bc7f80800000000000000
+      internalID: -8107402647317051784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_22
+      name: GUIA_22
       rect:
         serializedVersion: 2
         x: 171
@@ -861,14 +861,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8dedbb1f3d138f430800000000000000
-      internalID: 3816855470559977176
+      spriteID: 0990d17bd7edc84e0800000000000000
+      internalID: -1977961504798078576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_23
+      name: GUIA_23
       rect:
         serializedVersion: 2
         x: 247
@@ -883,14 +883,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 850858c14ea77d2c0800000000000000
-      internalID: -4406918590209097640
+      spriteID: 2b1577cedeb0f49b0800000000000000
+      internalID: -5093839537030344270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_24
+      name: GUIA_24
       rect:
         serializedVersion: 2
         x: 249
@@ -905,14 +905,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86f991fcc1d6ac780800000000000000
-      internalID: -8661990962792652952
+      spriteID: 6c8e98f4d9a4dcb70800000000000000
+      internalID: 8920868476395579590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_25
+      name: GUIA_25
       rect:
         serializedVersion: 2
         x: 265
@@ -927,14 +927,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7acfdb7ac8760f550800000000000000
-      internalID: 6192563341441760423
+      spriteID: c183759702942d500800000000000000
+      internalID: 419478119122417692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_26
+      name: GUIA_26
       rect:
         serializedVersion: 2
         x: 302
@@ -949,14 +949,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 567672c92acb47090800000000000000
-      internalID: -8037592028358940827
+      spriteID: 1da3074b9ae1e53e0800000000000000
+      internalID: -2063177865063548207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_27
+      name: GUIA_27
       rect:
         serializedVersion: 2
         x: 32
@@ -971,14 +971,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29a59dcf06f246f00800000000000000
-      internalID: 1109063501845453458
+      spriteID: 84436a527cd347e00800000000000000
+      internalID: 1041525339368862792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_28
+      name: GUIA_28
       rect:
         serializedVersion: 2
         x: 135
@@ -993,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 189503b38fc127910800000000000000
-      internalID: 1833559850763704705
+      spriteID: 5ade1ede997a0f170800000000000000
+      internalID: 8210246400259255717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_29
+      name: GUIA_29
       rect:
         serializedVersion: 2
         x: 212
@@ -1015,14 +1015,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1dc82f87dbc581c60800000000000000
-      internalID: 7789077524385008849
+      spriteID: e17552f1bd611ff20800000000000000
+      internalID: 3454567519546070814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_30
+      name: GUIA_30
       rect:
         serializedVersion: 2
         x: 28
@@ -1037,20 +1037,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c363e56afe7f94e0800000000000000
-      internalID: -1972718497848663100
+      spriteID: 066e64799b91098f0800000000000000
+      internalID: -535900070759438752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_31
+      name: GUIA_31
       rect:
         serializedVersion: 2
         x: 1
-        y: 235
-        width: 39
-        height: 40
+        y: 232
+        width: 37
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1059,14 +1059,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68d134dc04483dbe0800000000000000
-      internalID: -1453672840854037114
+      spriteID: 53de9e0828fb64100800000000000000
+      internalID: 91971409637141813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_32
+      name: GUIA_32
       rect:
         serializedVersion: 2
         x: 75
@@ -1081,14 +1081,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 569a3032a0667a020800000000000000
-      internalID: 2352961524047522149
+      spriteID: 6943b1d82f56d1480800000000000000
+      internalID: -8926866793954593642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_33
+      name: GUIA_33
       rect:
         serializedVersion: 2
         x: 269
@@ -1103,14 +1103,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 033aadf65498c8020800000000000000
-      internalID: 2345400437275534128
+      spriteID: cf81e34ce03d8bb20800000000000000
+      internalID: 3150499999721068796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_34
+      name: GUIA_34
       rect:
         serializedVersion: 2
         x: 309
@@ -1125,14 +1125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88429540d6ca28100800000000000000
-      internalID: 108838925234676872
+      spriteID: 507d1e45530e9f920800000000000000
+      internalID: 3024695144417974021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_35
+      name: GUIA_35
       rect:
         serializedVersion: 2
         x: 360
@@ -1147,14 +1147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 81186e0d8dfd351f0800000000000000
-      internalID: -1057255365191237352
+      spriteID: ecd6df474c10b3800800000000000000
+      internalID: 593069719217335758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_36
+      name: GUIA_36
       rect:
         serializedVersion: 2
         x: 45
@@ -1169,14 +1169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a16f250c307198e40800000000000000
-      internalID: 5659079711646742042
+      spriteID: 051735e89bfd53610800000000000000
+      internalID: 1600431230649856336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_37
+      name: GUIA_37
       rect:
         serializedVersion: 2
         x: 117
@@ -1191,14 +1191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cbeab8ae429a9b770800000000000000
-      internalID: 8627112537223835324
+      spriteID: 519e9c1ed784d0b40800000000000000
+      internalID: 5408058433038051605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_38
+      name: GUIA_38
       rect:
         serializedVersion: 2
         x: 148
@@ -1213,14 +1213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20f72af359e1b1c30800000000000000
-      internalID: 4331089093013438210
+      spriteID: 1e7384a7588977ae0800000000000000
+      internalID: -1551603847556220959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_39
+      name: GUIA_39
       rect:
         serializedVersion: 2
         x: 184
@@ -1235,14 +1235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f179b201c0f8b5c0800000000000000
-      internalID: -4199341940757925388
+      spriteID: 0b71d2fe402dfc740800000000000000
+      internalID: 5174585415506401200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_40
+      name: GUIA_40
       rect:
         serializedVersion: 2
         x: 234
@@ -1257,14 +1257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b61639663da42e070800000000000000
-      internalID: 8134146148804026731
+      spriteID: 4ec898738ea9bc670800000000000000
+      internalID: 8560105838902611172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_41
+      name: GUIA_41
       rect:
         serializedVersion: 2
         x: 301
@@ -1279,14 +1279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4804989128dd28460800000000000000
-      internalID: 7242594701609091204
+      spriteID: 6131c40dccd08fb50800000000000000
+      internalID: 6627062024994820886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_42
+      name: GUIA_42
       rect:
         serializedVersion: 2
         x: 324
@@ -1301,14 +1301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c18a605910d0fbe70800000000000000
-      internalID: 9133032869777025052
+      spriteID: 95e932a5c8482a980800000000000000
+      internalID: -8529109005943726503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_43
+      name: GUIA_43
       rect:
         serializedVersion: 2
         x: 389
@@ -1323,14 +1323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10157272ac00c84c0800000000000000
-      internalID: -4284048277295902463
+      spriteID: a7f56f5b3e4db8cc0800000000000000
+      internalID: -3707635793733984390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_44
+      name: GUIA_44
       rect:
         serializedVersion: 2
         x: 42
@@ -1345,14 +1345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c50ccb56426ec440800000000000000
-      internalID: 4958008294108825026
+      spriteID: a45d8bc03b2084330800000000000000
+      internalID: 3695206462293333322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_45
+      name: GUIA_45
       rect:
         serializedVersion: 2
         x: 3
@@ -1367,14 +1367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f5f7054b35465230800000000000000
-      internalID: 3627162670757049842
+      spriteID: a1050eeb8c0bb6890800000000000000
+      internalID: -7463677581194145766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_46
+      name: GUIA_46
       rect:
         serializedVersion: 2
         x: 173
@@ -1389,14 +1389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a39adb46fb01387b0800000000000000
-      internalID: -5223312728604694214
+      spriteID: 8f6368767eb32b640800000000000000
+      internalID: 5094199993569785592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_47
+      name: GUIA_47
       rect:
         serializedVersion: 2
         x: 278
@@ -1411,14 +1411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10110d1c4a881b0c0800000000000000
-      internalID: -4561714706341949183
+      spriteID: e4a8e0d097c814770800000000000000
+      internalID: 8593304015537605198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_48
+      name: GUIA_48
       rect:
         serializedVersion: 2
         x: 1
@@ -1433,14 +1433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7865f0a3217c6e700800000000000000
-      internalID: 569361284006368903
+      spriteID: abb7761f42e074ae0800000000000000
+      internalID: -1565266793656255558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_49
+      name: GUIA_49
       rect:
         serializedVersion: 2
         x: 19
@@ -1455,14 +1455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ee3baf03c6895e70800000000000000
-      internalID: 9104456294045794016
+      spriteID: 0e365dc9266dec040800000000000000
+      internalID: 4669905582656152544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_50
+      name: GUIA_50
       rect:
         serializedVersion: 2
         x: 59
@@ -1477,14 +1477,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7c1b3d98d807ec90800000000000000
-      internalID: -7140728957728777092
+      spriteID: 07df81fd8910c10e0800000000000000
+      internalID: -2297959953776181904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_51
+      name: GUIA_51
       rect:
         serializedVersion: 2
         x: 97
@@ -1499,14 +1499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4228fcf1221263d40800000000000000
-      internalID: 5563670820109124132
+      spriteID: f8e6da7802fa4a4e0800000000000000
+      internalID: -1971258182631330161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_52
+      name: GUIA_52
       rect:
         serializedVersion: 2
         x: 133
@@ -1521,14 +1521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b20f9a982feb49c30800000000000000
-      internalID: 4365323887729831979
+      spriteID: 00f3b9abe237a2910800000000000000
+      internalID: 1813388444506472192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_53
+      name: GUIA_53
       rect:
         serializedVersion: 2
         x: 201
@@ -1543,14 +1543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8922b297f8364c5f0800000000000000
-      internalID: -737354971117575528
+      spriteID: 11d0005b13b494060800000000000000
+      internalID: 6938159377803119889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_54
+      name: GUIA_54
       rect:
         serializedVersion: 2
         x: 238
@@ -1565,14 +1565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57484c1856a2157d0800000000000000
-      internalID: -2931515266984278923
+      spriteID: efb5657219bbbd220800000000000000
+      internalID: 2511807449293806590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_55
+      name: GUIA_55
       rect:
         serializedVersion: 2
         x: 276
@@ -1587,14 +1587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ddd2ee8c9aa15cbd0800000000000000
-      internalID: -2610651092468486691
+      spriteID: 8aabedf656cb9d7a0800000000000000
+      internalID: -6351838655574787416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_56
+      name: GUIA_56
       rect:
         serializedVersion: 2
         x: 294
@@ -1609,14 +1609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ec7fc9799ca403e0800000000000000
-      internalID: -2088354552019452698
+      spriteID: 02732bd46ec971b20800000000000000
+      internalID: 3105122981055182624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_57
+      name: GUIA_57
       rect:
         serializedVersion: 2
         x: 1
@@ -1631,14 +1631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69eb9083f65a2d080800000000000000
-      internalID: -9164080394645422442
+      spriteID: 3d505bd8f9fd1c4a0800000000000000
+      internalID: -6574728104613968429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_58
+      name: GUIA_58
       rect:
         serializedVersion: 2
         x: 53
@@ -1653,14 +1653,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61a42e22ef3b0fa00800000000000000
-      internalID: 788327838878157334
+      spriteID: 8b44832b931bb8820800000000000000
+      internalID: 2921623644641182904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_59
+      name: GUIA_59
       rect:
         serializedVersion: 2
         x: 195
@@ -1675,14 +1675,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a977e537dae2a840800000000000000
-      internalID: 5234003927001168294
+      spriteID: c05ff4878fbd92600800000000000000
+      internalID: 444127898489582860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_60
+      name: GUIA_60
       rect:
         serializedVersion: 2
         x: 232
@@ -1697,14 +1697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e836c60d68ff5f210800000000000000
-      internalID: 1366279016464278414
+      spriteID: 307eb353c67688cd0800000000000000
+      internalID: -2555679074085509373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_61
+      name: GUIA_61
       rect:
         serializedVersion: 2
         x: 335
@@ -1719,14 +1719,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f749257ce0ab0ce0800000000000000
-      internalID: -1437878718576375823
+      spriteID: c6531da7b06cc6270800000000000000
+      internalID: 8245182770416006508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_62
+      name: GUIA_62
       rect:
         serializedVersion: 2
         x: 384
@@ -1741,14 +1741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62e576717f3e29ef0800000000000000
-      internalID: -102769191087022554
+      spriteID: 9644d104c406d5b90800000000000000
+      internalID: -7251533944387189655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_63
+      name: GUIA_63
       rect:
         serializedVersion: 2
         x: 415
@@ -1763,14 +1763,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42f8928809b260fb0800000000000000
-      internalID: -4682006862845341916
+      spriteID: 26c80fb0bb36ff410800000000000000
+      internalID: 1513037654830124130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_64
+      name: GUIA_64
       rect:
         serializedVersion: 2
         x: 423
@@ -1785,14 +1785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c970790bd540dd4d0800000000000000
-      internalID: -3108323367374616676
+      spriteID: 7982c65f6570d3b80800000000000000
+      internalID: -8413560458792130409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_65
+      name: GUIA_65
       rect:
         serializedVersion: 2
         x: 35
@@ -1807,14 +1807,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b95adfc1b4ba49b50800000000000000
-      internalID: 6599087693101901211
+      spriteID: ae814c34c91c550c0800000000000000
+      internalID: -4587547768510998294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_66
+      name: GUIA_66
       rect:
         serializedVersion: 2
         x: 99
@@ -1829,14 +1829,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2b6abb4c6b006eb0800000000000000
-      internalID: -4728767048984138963
+      spriteID: 71c92a49dbcf0f3d0800000000000000
+      internalID: -3174759846123496425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_67
+      name: GUIA_67
       rect:
         serializedVersion: 2
         x: 136
@@ -1851,14 +1851,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59f3b1fd73c938200800000000000000
-      internalID: 181160173805191061
+      spriteID: a51e6d9c7330fddb0800000000000000
+      internalID: -4765086342590308006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_68
+      name: GUIA_68
       rect:
         serializedVersion: 2
         x: 230
@@ -1873,14 +1873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7ff747d7cae22f00800000000000000
-      internalID: 1090692203808292731
+      spriteID: f9496f9bdc8904da0800000000000000
+      internalID: -5962597897282874209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_69
+      name: GUIA_69
       rect:
         serializedVersion: 2
         x: 249
@@ -1895,14 +1895,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca7f5aaa2a2abd160800000000000000
-      internalID: 7051408461110048684
+      spriteID: 2ce70089d90440a90800000000000000
+      internalID: -7348677646357594430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_70
+      name: GUIA_70
       rect:
         serializedVersion: 2
         x: 285
@@ -1917,14 +1917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8bbb84dad257a3370800000000000000
-      internalID: 8303077702052133816
+      spriteID: 92ea7263cb01d6820800000000000000
+      internalID: 2913002934527045161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_71
+      name: GUIA_71
       rect:
         serializedVersion: 2
         x: 439
@@ -1939,14 +1939,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33c3d69e639408af0800000000000000
-      internalID: -396236267015291853
+      spriteID: 330b123141ff205c0800000000000000
+      internalID: -4250554636598923213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_72
+      name: GUIA_72
       rect:
         serializedVersion: 2
         x: 32
@@ -1961,14 +1961,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0cb4753ac8b38df0800000000000000
-      internalID: -179096381544940532
+      spriteID: c3b4b5350072497f0800000000000000
+      internalID: -606817167436199108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_73
+      name: GUIA_73
       rect:
         serializedVersion: 2
         x: 1
@@ -1983,14 +1983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff52fd85a98100740800000000000000
-      internalID: 5116116227887932927
+      spriteID: 08f2a8ea8141de210800000000000000
+      internalID: 1363768358403190656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_74
+      name: GUIA_74
       rect:
         serializedVersion: 2
         x: 54
@@ -2005,14 +2005,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93269abb60abf9210800000000000000
-      internalID: 1341995752060707385
+      spriteID: 0cd5c0d66d57d9b00800000000000000
+      internalID: 836954669573758400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_75
+      name: GUIA_75
       rect:
         serializedVersion: 2
         x: 169
@@ -2027,14 +2027,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7885d3cb52d49520800000000000000
-      internalID: 2708020567525918843
+      spriteID: de382b325470ac340800000000000000
+      internalID: 4884724739369763821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_76
+      name: GUIA_76
       rect:
         serializedVersion: 2
         x: 274
@@ -2049,14 +2049,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1a42849dfd18c020800000000000000
-      internalID: 2362170979511323166
+      spriteID: 5ddd3642fc93cbaf0800000000000000
+      internalID: -379364706774426155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_77
+      name: GUIA_77
       rect:
         serializedVersion: 2
         x: 290
@@ -2071,14 +2071,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1031017a6e119a3b0800000000000000
-      internalID: -5500845787513351423
+      spriteID: 54fcf7003b21efd20800000000000000
+      internalID: 3314106935808085829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_78
+      name: GUIA_78
       rect:
         serializedVersion: 2
         x: 15
@@ -2093,14 +2093,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fed54a108b4ced940800000000000000
-      internalID: 5322908104179080687
+      spriteID: 863be4c895e032de0800000000000000
+      internalID: -1359226884766911640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_79
+      name: GUIA_79
       rect:
         serializedVersion: 2
         x: 93
@@ -2115,14 +2115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 32d344c87499d1b50800000000000000
-      internalID: 6565572364351061283
+      spriteID: 7ef7d933f6e2b51a0800000000000000
+      internalID: -6819806155580276761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_80
+      name: GUIA_80
       rect:
         serializedVersion: 2
         x: 129
@@ -2137,14 +2137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f899efea855ef88f0800000000000000
-      internalID: -535957661577995889
+      spriteID: ae0e805268a665190800000000000000
+      internalID: -7974068965833383702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_81
+      name: GUIA_81
       rect:
         serializedVersion: 2
         x: 197
@@ -2159,14 +2159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 43810ea2644993f50800000000000000
-      internalID: 6861678536363612212
+      spriteID: 14324d464c49a4160800000000000000
+      internalID: 7010579341181723457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_82
+      name: GUIA_82
       rect:
         serializedVersion: 2
         x: 234
@@ -2181,14 +2181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 400c3079bfcf53db0800000000000000
-      internalID: -4812662469274910716
+      spriteID: 65181f023e9dcc620800000000000000
+      internalID: 2795849038223737174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIA 1_83
+      name: GUIA_83
       rect:
         serializedVersion: 2
         x: 272
@@ -2203,8 +2203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64ba7a48259372010800000000000000
-      internalID: 1163962055274244934
+      spriteID: bd7b8b9dd7eaa7b60800000000000000
+      internalID: 7744694364763895771
       vertices: []
       indices: 
       edges: []
@@ -2223,90 +2223,90 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GUIA 1_0: 3956362537677763940
-      GUIA 1_1: -2049075516834826122
-      GUIA 1_10: -621793388641846925
-      GUIA 1_11: -7263760768032115665
-      GUIA 1_12: 1053600791173287984
-      GUIA 1_13: 88831308129250412
-      GUIA 1_14: 2352983204744210399
-      GUIA 1_15: 8745502153091704006
-      GUIA 1_16: -121008178748004814
-      GUIA 1_17: -5772261473737552776
-      GUIA 1_18: -9026880777757857213
-      GUIA 1_19: 188243825483345799
-      GUIA 1_2: -1902733641959559561
-      GUIA 1_20: 7674018802987131016
-      GUIA 1_21: -6958111356537909071
-      GUIA 1_22: 3816855470559977176
-      GUIA 1_23: -4406918590209097640
-      GUIA 1_24: -8661990962792652952
-      GUIA 1_25: 6192563341441760423
-      GUIA 1_26: -8037592028358940827
-      GUIA 1_27: 1109063501845453458
-      GUIA 1_28: 1833559850763704705
-      GUIA 1_29: 7789077524385008849
-      GUIA 1_3: -9192086597285117858
-      GUIA 1_30: -1972718497848663100
-      GUIA 1_31: -1453672840854037114
-      GUIA 1_32: 2352961524047522149
-      GUIA 1_33: 2345400437275534128
-      GUIA 1_34: 108838925234676872
-      GUIA 1_35: -1057255365191237352
-      GUIA 1_36: 5659079711646742042
-      GUIA 1_37: 8627112537223835324
-      GUIA 1_38: 4331089093013438210
-      GUIA 1_39: -4199341940757925388
-      GUIA 1_4: -2726961516401816521
-      GUIA 1_40: 8134146148804026731
-      GUIA 1_41: 7242594701609091204
-      GUIA 1_42: 9133032869777025052
-      GUIA 1_43: -4284048277295902463
-      GUIA 1_44: 4958008294108825026
-      GUIA 1_45: 3627162670757049842
-      GUIA 1_46: -5223312728604694214
-      GUIA 1_47: -4561714706341949183
-      GUIA 1_48: 569361284006368903
-      GUIA 1_49: 9104456294045794016
-      GUIA 1_5: -1247168691469778040
-      GUIA 1_50: -7140728957728777092
-      GUIA 1_51: 5563670820109124132
-      GUIA 1_52: 4365323887729831979
-      GUIA 1_53: -737354971117575528
-      GUIA 1_54: -2931515266984278923
-      GUIA 1_55: -2610651092468486691
-      GUIA 1_56: -2088354552019452698
-      GUIA 1_57: -9164080394645422442
-      GUIA 1_58: 788327838878157334
-      GUIA 1_59: 5234003927001168294
-      GUIA 1_6: -6991444164571343721
-      GUIA 1_60: 1366279016464278414
-      GUIA 1_61: -1437878718576375823
-      GUIA 1_62: -102769191087022554
-      GUIA 1_63: -4682006862845341916
-      GUIA 1_64: -3108323367374616676
-      GUIA 1_65: 6599087693101901211
-      GUIA 1_66: -4728767048984138963
-      GUIA 1_67: 181160173805191061
-      GUIA 1_68: 1090692203808292731
-      GUIA 1_69: 7051408461110048684
-      GUIA 1_7: -5435444526560493964
-      GUIA 1_70: 8303077702052133816
-      GUIA 1_71: -396236267015291853
-      GUIA 1_72: -179096381544940532
-      GUIA 1_73: 5116116227887932927
-      GUIA 1_74: 1341995752060707385
-      GUIA 1_75: 2708020567525918843
-      GUIA 1_76: 2362170979511323166
-      GUIA 1_77: -5500845787513351423
-      GUIA 1_78: 5322908104179080687
-      GUIA 1_79: 6565572364351061283
-      GUIA 1_8: 9013642233137615169
-      GUIA 1_80: -535957661577995889
-      GUIA 1_81: 6861678536363612212
-      GUIA 1_82: -4812662469274910716
-      GUIA 1_83: 1163962055274244934
-      GUIA 1_9: 4340813161540713103
+      GUIA_0: 969602608638228439
+      GUIA_1: 4996073126429786496
+      GUIA_10: 3569698342107559347
+      GUIA_11: 8440671570936887933
+      GUIA_12: -7296354125828778575
+      GUIA_13: 1388994562406465981
+      GUIA_14: -1768835606638270759
+      GUIA_15: 7645749608663263997
+      GUIA_16: 2715232633505072780
+      GUIA_17: -105730019807919673
+      GUIA_18: 2630282995537874794
+      GUIA_19: -513886559752491656
+      GUIA_2: -5496204083027613761
+      GUIA_20: -8169735618906097756
+      GUIA_21: -8107402647317051784
+      GUIA_22: -1977961504798078576
+      GUIA_23: -5093839537030344270
+      GUIA_24: 8920868476395579590
+      GUIA_25: 419478119122417692
+      GUIA_26: -2063177865063548207
+      GUIA_27: 1041525339368862792
+      GUIA_28: 8210246400259255717
+      GUIA_29: 3454567519546070814
+      GUIA_3: 101364385715866815
+      GUIA_30: -535900070759438752
+      GUIA_31: 91971409637141813
+      GUIA_32: -8926866793954593642
+      GUIA_33: 3150499999721068796
+      GUIA_34: 3024695144417974021
+      GUIA_35: 593069719217335758
+      GUIA_36: 1600431230649856336
+      GUIA_37: 5408058433038051605
+      GUIA_38: -1551603847556220959
+      GUIA_39: 5174585415506401200
+      GUIA_4: 3431286232621286221
+      GUIA_40: 8560105838902611172
+      GUIA_41: 6627062024994820886
+      GUIA_42: -8529109005943726503
+      GUIA_43: -3707635793733984390
+      GUIA_44: 3695206462293333322
+      GUIA_45: -7463677581194145766
+      GUIA_46: 5094199993569785592
+      GUIA_47: 8593304015537605198
+      GUIA_48: -1565266793656255558
+      GUIA_49: 4669905582656152544
+      GUIA_5: 74545707290440869
+      GUIA_50: -2297959953776181904
+      GUIA_51: -1971258182631330161
+      GUIA_52: 1813388444506472192
+      GUIA_53: 6938159377803119889
+      GUIA_54: 2511807449293806590
+      GUIA_55: -6351838655574787416
+      GUIA_56: 3105122981055182624
+      GUIA_57: -6574728104613968429
+      GUIA_58: 2921623644641182904
+      GUIA_59: 444127898489582860
+      GUIA_6: -1748733763008192484
+      GUIA_60: -2555679074085509373
+      GUIA_61: 8245182770416006508
+      GUIA_62: -7251533944387189655
+      GUIA_63: 1513037654830124130
+      GUIA_64: -8413560458792130409
+      GUIA_65: -4587547768510998294
+      GUIA_66: -3174759846123496425
+      GUIA_67: -4765086342590308006
+      GUIA_68: -5962597897282874209
+      GUIA_69: -7348677646357594430
+      GUIA_7: -8603916879023971761
+      GUIA_70: 2913002934527045161
+      GUIA_71: -4250554636598923213
+      GUIA_72: -606817167436199108
+      GUIA_73: 1363768358403190656
+      GUIA_74: 836954669573758400
+      GUIA_75: 4884724739369763821
+      GUIA_76: -379364706774426155
+      GUIA_77: 3314106935808085829
+      GUIA_78: -1359226884766911640
+      GUIA_79: -6819806155580276761
+      GUIA_8: -4454533699300920399
+      GUIA_80: -7974068965833383702
+      GUIA_81: 7010579341181723457
+      GUIA_82: 2795849038223737174
+      GUIA_83: 7744694364763895771
+      GUIA_9: 968176453589548436
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

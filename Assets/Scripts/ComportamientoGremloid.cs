@@ -70,24 +70,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
     }
 
     private void comportamientoVivo()
-    {/*
-        if (Input.GetKeyDown(KeyCode.Y))
-        {
-            if(objetoElegido == "trabuco")
-            {
-              objetoElegido = "cascote";
-              //animador.SetBool("cascoteSeleccion", true);
-              animador.SetBool("trabucoSeleccion", false);
-            }
-            else if(objetoElegido == "cascote")
-            {
-              objetoElegido = "trabuco";
-              animador.SetBool("trabucoSeleccion", true);
-              //animador.SetBool("cascoteSeleccion", false);
-            }
-            HUD.actualizarObjetoSeleccionado(objetoElegido);
-        }
-        */
+    {
         if (Input.GetKeyDown(KeyCode.Y) && usandoObjeto == false)
         {
             if(numeroInventario < inventario.Count -1)
@@ -352,7 +335,7 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         {
             TesorosAgarrados = TesorosAgarrados + 1;
             HUD.actualizarTesoro(TesorosAgarrados);
-            if(TesorosAgarrados >= 2)
+            if(TesorosAgarrados >= 3)
             {
             HUD.GanarPartida();
             }
@@ -361,6 +344,15 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         else if(collision.collider.CompareTag("Explosion"))
         {
             Dañar(8);
+            HUD.actualizarVida(Vida);
+            if (!oww.isPlaying)
+            {
+                oww.Play();
+            }
+        }
+            else if(collision.collider.CompareTag("TerrenoMuerteInstantanea"))
+        {
+            Dañar(100);
             HUD.actualizarVida(Vida);
             if (!oww.isPlaying)
             {
@@ -390,7 +382,8 @@ public class ComportamientoGremloid : ComportamientoObjetoBase
         {
             transform.position = puntoRespawn.transform.position;
             Vivo = true;
-            Dañar(-10);
+            //Dañar(-10);
+            Vida = 10;
             animador.Play("Idle");
             HUD.actualizarVida(Vida);
             StopCoroutine("Respawnear");
